@@ -1,0 +1,64 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "SCF #",
+            "type": "string"
+        },
+        {
+            "name": "SCF AO #",
+            "type": "string"
+        },
+        {
+            "name": "SCF Assessment Objective (AO)\nIn addition to relevant policies, standards and procedures, the assessor shall examine, interview, and/or test to determine if appropriately scoped evidence exists to support the claim that:",
+            "type": "string"
+        },
+        {
+            "name": "SCF Assessment Objective (AO) Origin",
+            "type": "string"
+        },
+        {
+            "name": "Asset Type\nexamine/interview/test",
+            "type": "number"
+        },
+        {
+            "name": "Assessment Procedure",
+            "type": "number"
+        },
+        {
+            "name": "Expected Result(s)",
+            "type": "number"
+        },
+        {
+            "name": "Assessment Status\nmet / not met / not tested / an",
+            "type": "number"
+        },
+        {
+            "name": "Inherited\ny/n",
+            "type": "number"
+        },
+        {
+            "name": "Assessment Frequency",
+            "type": "number"
+        },
+        {
+            "name": "Last Date Assessed",
+            "type": "number"
+        },
+        {
+            "name": "Assessment Performed By",
+            "type": "number"
+        },
+        {
+            "name": "Unnamed: 12",
+            "type": "number"
+        },
+        {
+            "name": "Unnamed: 13",
+            "type": "string"
+        }
+    ]
+}

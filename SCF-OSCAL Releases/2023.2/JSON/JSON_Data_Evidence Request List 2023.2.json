@@ -1,0 +1,2618 @@
+[
+    {
+        "UUID": "e01a9363-bc8d-42b5-8629-3112f03f5704",
+        "#": 1,
+        "ERL #": "E-GOV-01",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Cybersecurity Program",
+        "Artifact Description": [
+            "Documented evidence of a corporate-level (C-Level) organization and resourcing for a cybersecurity & privacy governance program."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01"
+        ]
+    },
+    {
+        "UUID": "42b1f7c9-7300-4776-b9df-bb27637a5ad8",
+        "#": 2,
+        "ERL #": "E-GOV-02",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Privacy Program",
+        "Artifact Description": [
+            "Documented evidence of an executive steering committee, or advisory board, that is formed to perform oversight of privacy management decisions and is comprised of key cybersecurity, technology, risk, privacy and business executives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01",
+            "PRI-01"
+        ]
+    },
+    {
+        "UUID": "fc7dd71e-224b-4b02-8271-6b3b2c351cd7",
+        "#": 3,
+        "ERL #": "E-GOV-03",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Cybersecurity Steering Committee",
+        "Artifact Description": [
+            "Documented evidence of an executive steering committee, or advisory board, that is formed to perform oversight of cybersecurity management decisions and is comprised of key cybersecurity, technology, risk, privacy and business executives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.1",
+            "GOV-01.2"
+        ]
+    },
+    {
+        "UUID": "e89f6922-d980-40ca-816c-a298e596cb4e",
+        "#": 4,
+        "ERL #": "E-GOV-04",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Privacy Steering Committee",
+        "Artifact Description": [
+            "Documented evidence of an executive steering committee, or advisory board, that is formed to perform oversight of privacy management decisions and is comprised of key cybersecurity, technology, risk, privacy and business executives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.2",
+            "CPL-02"
+        ]
+    },
+    {
+        "UUID": "1fcf17f1-5769-4120-b48d-e65b79329719",
+        "#": 5,
+        "ERL #": "E-GOV-05",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Audit Committee",
+        "Artifact Description": [
+            "Documented evidence of an executive steering committee, or advisory board, that is formed to perform oversight of internal and external audit management decisions and is comprised of key cybersecurity, technology, risk, privacy and business executives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.2",
+            "CPL-02"
+        ]
+    },
+    {
+        "UUID": "d81b2272-0f68-446c-800c-ae94e7dd6e0a",
+        "#": 6,
+        "ERL #": "E-GOV-06",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Risk Committee",
+        "Artifact Description": [
+            "Documented evidence of an executive steering committee, or advisory board, that is formed to perform oversight of risk management decisions and is comprised of key cybersecurity, technology, risk, privacy and business executives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.2",
+            "CPL-02"
+        ]
+    },
+    {
+        "UUID": "591fbb97-ba97-4809-bb11-20f2b01994f7",
+        "#": 7,
+        "ERL #": "E-GOV-07",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Charter - Data Management Board (DMB)",
+        "Artifact Description": [
+            "Documented evidence of the organization's Data Management Board (DMB) charter and mission."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.2"
+        ]
+    },
+    {
+        "UUID": "7371421f-2a5d-47db-8a19-3c7ec4385bcb",
+        "#": 8,
+        "ERL #": "E-GOV-08",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Cybersecurity & Privacy Policies",
+        "Artifact Description": [
+            "Documented evidence of an appropriately-scoped cybersecurity and privacy policies. Policies are high-level statements of management intent from an organization\u2019s executive leadership that are designed to influence decisions and guide the organization to achieve the desired outcomes. Policies are enforced by standards and further implemented by procedures to establish actionable and accountable requirements."
+        ],
+        "SCF Control Mappings": [
+            "GOV-02",
+            "PRI-01"
+        ]
+    },
+    {
+        "UUID": "1b696c8c-fc45-41fa-9675-9b6f0b407280",
+        "#": 9,
+        "ERL #": "E-GOV-09",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Cybersecurity & Privacy Standards",
+        "Artifact Description": [
+            "Documented evidence of an appropriately-scoped cybersecurity and privacy standards. Standards are mandatory requirements regarding processes, actions and configurations. Standards are intended to be granular and prescriptive to ensure systems, applications and processes are designed and operated to include appropriate cybersecurity and privacy protections"
+        ],
+        "SCF Control Mappings": [
+            "GOV-02"
+        ]
+    },
+    {
+        "UUID": "eece9605-9c32-4f31-9cbf-d63860ee828b",
+        "#": 10,
+        "ERL #": "E-GOV-10",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Cybersecurity & Privacy Controls",
+        "Artifact Description": [
+            "Documented evidence of an appropriately-scoped cybersecurity and privacy controls. Controls are technical, administrative or physical safeguards. Controls are the nexus used to manage risks through preventing, detecting or lessening the ability of a particular threat from negatively impacting business processes. Controls directly map to standards, since control testing is designed to measure specific aspects of how standards are actually implemented."
+        ],
+        "SCF Control Mappings": [
+            "GOV-09",
+            "CPL-01",
+            "CPL-01.2"
+        ]
+    },
+    {
+        "UUID": "ff30f45e-c929-4150-8d41-66db5ba312f4",
+        "#": 11,
+        "ERL #": "E-GOV-11",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Cybersecurity & Privacy Procedures",
+        "Artifact Description": [
+            "Documented evidence of an appropriate appropriately-scoped cybersecurity and privacy procedures. Procedures are a documented set of steps necessary to perform a specific task or process in conformance with an applicable standard. Procedures help address the question of how the organization actually operationalizes a policy, standard or control. The result of a procedure is intended to satisfy a specific control. Procedures are also commonly referred to as \u201ccontrol activities.\u201d"
+        ],
+        "SCF Control Mappings": [
+            "GOV-02",
+            "OPS-01.1"
+        ]
+    },
+    {
+        "UUID": "9dfec7a2-ce6f-414b-8e15-b8c147998e69",
+        "#": 12,
+        "ERL #": "E-GOV-12",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Cybersecurity & Privacy Policies & Standards Reviews",
+        "Artifact Description": [
+            "Documented evidence of a periodic review process for the organization's cybersecurity and privacy policies and standards to identify necessary updates."
+        ],
+        "SCF Control Mappings": [
+            "GOV-03"
+        ]
+    },
+    {
+        "UUID": "97ecf334-e8c9-4b10-b41c-49bf36a0e589",
+        "#": 13,
+        "ERL #": "E-GOV-13",
+        "Area of Focus": "Security & Privacy Program Management",
+        "Documentation Artifact": "Measures of Performance (Metrics)",
+        "Artifact Description": [
+            "Documented evidence of formal measure of performance that are used to track the health of the cybersecurity and privacy program (e.g., metrics, KPIs, KRIs)."
+        ],
+        "SCF Control Mappings": [
+            "GOV-01.2",
+            "GOV-05",
+            "CPL-02"
+        ]
+    },
+    {
+        "UUID": "6ad6089e-ba02-4e9e-b581-fc487044ba9a",
+        "#": 14,
+        "ERL #": "E-AST-01",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "IT Asset Management (ITAM)",
+        "Artifact Description": [
+            "Documented evidence of an IT Asset Management (ITAM) program."
+        ],
+        "SCF Control Mappings": [
+            "AST-01",
+            "AST-03",
+            "AST-03.1",
+            "AST-10"
+        ]
+    },
+    {
+        "UUID": "6b7887b4-0506-4527-bdc1-700b0f55fc27",
+        "#": 15,
+        "ERL #": "E-AST-02",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Scoping Guidance",
+        "Artifact Description": [
+            "Documented evidence of an asset scoping guidance. This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on defining in-scope systems, applications, services, processes and third-parties."
+        ],
+        "SCF Control Mappings": [
+            "AST-04.1",
+            "AST-04.2",
+            "AST-04.3",
+            "CPL-01.2",
+            "IAO-01.1"
+        ]
+    },
+    {
+        "UUID": "a319c8c7-de07-4689-96e3-25952d3ee1b5",
+        "#": 16,
+        "ERL #": "E-AST-03",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Disposal Evidence",
+        "Artifact Description": [
+            "Documented evidence of a Vulnerability & Patch Management Program (VPMP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "AST-09",
+            "DCH-08",
+            "DCH-09",
+            "DCH-09.1"
+        ]
+    },
+    {
+        "UUID": "3d5bbf37-781a-48b7-ab25-ee65b5328a52",
+        "#": 17,
+        "ERL #": "E-AST-04",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Inventories - Hardware",
+        "Artifact Description": [
+            "Documented evidence of an inventory of the organization's technology hardware assets. "
+        ],
+        "SCF Control Mappings": [
+            "AST-02"
+        ]
+    },
+    {
+        "UUID": "0bee962e-de18-4b99-91d3-5c4ad93e3501",
+        "#": 18,
+        "ERL #": "E-AST-05",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Inventories - Software",
+        "Artifact Description": [
+            "Documented evidence of an inventory of the organization's software assets. "
+        ],
+        "SCF Control Mappings": [
+            "AST-02"
+        ]
+    },
+    {
+        "UUID": "80796d69-540f-46a3-afe0-6ac3ef463a3c",
+        "#": 19,
+        "ERL #": "E-AST-06",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Inventories - Cloud Service Provider (CSP)",
+        "Artifact Description": [
+            "Documented evidence of an inventory of the organization's cloud-based services (e.g., SaaS, IaaS, PaaS, etc.). "
+        ],
+        "SCF Control Mappings": [
+            "CLD-01",
+            "CLD-09",
+            "TPM-01.1"
+        ]
+    },
+    {
+        "UUID": "76fb38c8-06e7-4d1b-9b18-251a51617e27",
+        "#": 20,
+        "ERL #": "E-AST-07",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Cyber-Physical Systems (CPS)",
+        "Artifact Description": [
+            "Documented evidence of an inventory of the organization's physical assets that process functions based on software and networks."
+        ],
+        "SCF Control Mappings": [
+            "AST-02",
+            "EMB-01"
+        ]
+    },
+    {
+        "UUID": "a9a5d9b2-56c8-4640-a4d8-b86b91b15e2c",
+        "#": 21,
+        "ERL #": "E-AST-08",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Inventories - Sensitive / Regulated Data",
+        "Artifact Description": [
+            "Documented evidence of an inventory of the organization's sensitive/regulated data (including systems where sensitive/regulated data is stored, processed and/or transmitted)."
+        ],
+        "SCF Control Mappings": [
+            "CLD-10",
+            "DCH-06.2",
+            "BCD-11.2",
+            "PRI-05.5"
+        ]
+    },
+    {
+        "UUID": "e4826ca4-442a-4b61-bbd6-1f159feb3572",
+        "#": 22,
+        "ERL #": "E-AST-09",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Computer Lifecycle Plan (CLP)",
+        "Artifact Description": [
+            "Documented evidence of a Computer Lifecycle Plan (CLP) that describes how the life of technology assets is managed."
+        ],
+        "SCF Control Mappings": [
+            "SEA-07.1",
+            "TDA-17"
+        ]
+    },
+    {
+        "UUID": "8a383a98-8cf5-47a4-b50a-d8e15b957b47",
+        "#": 23,
+        "ERL #": "E-AST-10",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Prohibited Equipment List (PEM)",
+        "Artifact Description": [
+            "Documented evidence of equipment identified by Federal Acquisition Regulation (FAR) section 889 prohibitions for certain telecommunications equipment."
+        ],
+        "SCF Control Mappings": [
+            "AST-17"
+        ]
+    },
+    {
+        "UUID": "d2e2c7f3-17f1-4c0b-ab9a-3e4c69f92be1",
+        "#": 24,
+        "ERL #": "E-AST-11",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Data Retention Program",
+        "Artifact Description": [
+            "Documented evidence of a formal data retention program that governs the retention and destruction of data types."
+        ],
+        "SCF Control Mappings": [
+            "DCH-18",
+            "MON-10",
+            "PRI-05"
+        ]
+    },
+    {
+        "UUID": "266deb6f-3518-48a4-8efb-4765383e6188",
+        "#": 25,
+        "ERL #": "E-AST-12",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations Reviews",
+        "Artifact Description": [
+            "Documented evidence of a review process to ensure Secure Baseline Configurations (SBC) are current and applicable."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5",
+            "NET-04",
+            "NET-04.1",
+            "NET-04.6"
+        ]
+    },
+    {
+        "UUID": "1cb950a1-1d63-4535-bf5c-46648c45a0d7",
+        "#": 26,
+        "ERL #": "E-AST-13",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Cloud-Based Services",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of cloud-based services or applications."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "8bf4e1a8-ec53-4460-9186-6aac0daf41ed",
+        "#": 27,
+        "ERL #": "E-AST-14",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Databases",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of databases."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "285c1b3e-a807-4072-9d70-ed2623ca8328",
+        "#": 28,
+        "ERL #": "E-AST-15",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Embedded Technologies",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of embedded technologies."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "f4e917c9-5a47-4707-a41a-4b5549d83ad7",
+        "#": 29,
+        "ERL #": "E-AST-16",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Major Applications",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of major applications."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "309b36dd-2a31-442c-b665-ba754d7eec8d",
+        "#": 30,
+        "ERL #": "E-AST-17",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Minor Applications",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of minor applications."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "018d08b8-38fe-4d09-8922-76067f0bde9c",
+        "#": 31,
+        "ERL #": "E-AST-18",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Mobile Devices",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of mobile devices."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "b0ef3513-a508-462d-a96b-40d84fffc7df",
+        "#": 32,
+        "ERL #": "E-AST-19",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Network Devices",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of network devices."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5",
+            "NET-04",
+            "NET-04.1"
+        ]
+    },
+    {
+        "UUID": "2abf4770-4898-4c43-98c4-b22b832d8081",
+        "#": 33,
+        "ERL #": "E-AST-20",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Server Class Systems",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of server-class operating systems."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "5f988c70-832c-4955-a55b-6e477e3cdd9a",
+        "#": 34,
+        "ERL #": "E-AST-21",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Secure Baseline Configurations - Workstation Class Systems",
+        "Artifact Description": [
+            "Documented evidence of secure baseline configurations for all deployed types of workstation-class operating systems."
+        ],
+        "SCF Control Mappings": [
+            "CFG-02",
+            "CFG-02.5"
+        ]
+    },
+    {
+        "UUID": "42705be6-de69-47b1-8896-bc09661cefd6",
+        "#": 35,
+        "ERL #": "E-AST-22",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Provenance",
+        "Artifact Description": [
+            "Documented evidence of that tracks the origin, development, ownership, location and changes to systems, system components and associated data."
+        ],
+        "SCF Control Mappings": [
+            "AST-03.2"
+        ]
+    },
+    {
+        "UUID": "758981a5-8bb3-466b-9cb9-270c1b01d049",
+        "#": 36,
+        "ERL #": "E-AST-23",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Geolocation Inventory",
+        "Artifact Description": [
+            "Documented evidence of designated internal and third-party facilities where organizational data is stored, transmitted and/or processed."
+        ],
+        "SCF Control Mappings": [
+            "BCD-02.4",
+            "CLD-09",
+            "DCH-19",
+            "DCH-24"
+        ]
+    },
+    {
+        "UUID": "72904eb4-0c08-4d0d-ba48-a8dbf1763b1d",
+        "#": 37,
+        "ERL #": "E-AST-24",
+        "Area of Focus": "Asset Management",
+        "Documentation Artifact": "Asset Categorization",
+        "Artifact Description": [
+            "Documented evidence of a methodology to categorize technology assets (e.g., criticality and data classification considerations)"
+        ],
+        "SCF Control Mappings": [
+            "AST-31",
+            "AST-31.1"
+        ]
+    },
+    {
+        "UUID": "1385a03c-f517-4055-8dae-0c90643b5ab8",
+        "#": 38,
+        "ERL #": "E-BCM-01",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Continuity of Operations Plan (COOP)",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "BCD-01"
+        ]
+    },
+    {
+        "UUID": "9516dc0a-50a8-47ac-8048-a87afa4e2915",
+        "#": 39,
+        "ERL #": "E-BCM-02",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Recovery Time Objectives (RTOs)",
+        "Artifact Description": [
+            "Documented evidence of Recovery Time Objectives (RTOs) that guide Continuity of Operations Plan (COOP)-related operations."
+        ],
+        "SCF Control Mappings": [
+            "BCD-01.4"
+        ]
+    },
+    {
+        "UUID": "d4dfc621-9c4f-4214-a9b8-ff7d97d665c6",
+        "#": 40,
+        "ERL #": "E-BCM-03",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Recovery Time Objectives (RTOs)",
+        "Artifact Description": [
+            "Documented evidence of Recovery Point Objectives (RPOs) that guide Continuity of Operations Plan (COOP)-related operations."
+        ],
+        "SCF Control Mappings": [
+            "BCD-01.4"
+        ]
+    },
+    {
+        "UUID": "43f563d7-bb81-49ed-9871-fade02c19e28",
+        "#": 41,
+        "ERL #": "E-BCM-04",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Root Cause Analysis (RCA)",
+        "Artifact Description": [
+            "Documented evidence of a Root Cause Analysis (RCA) from any Continuity of Operations Plan (COOP)-related training, testing or incident."
+        ],
+        "SCF Control Mappings": [
+            "BCD-05"
+        ]
+    },
+    {
+        "UUID": "5cf4c0d1-fa53-49d7-b0cf-b9a696cd18ff",
+        "#": 42,
+        "ERL #": "E-BCM-05",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Updates",
+        "Artifact Description": [
+            "Documented evidence of a periodic review process for the organization's Continuity of Operations Plan (COOP) to identify necessary updates."
+        ],
+        "SCF Control Mappings": [
+            "BCD-06"
+        ]
+    },
+    {
+        "UUID": "70dd16ed-f60f-454c-83c6-cdee5944ec21",
+        "#": 43,
+        "ERL #": "E-BCM-06",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Testing",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related testing activity."
+        ],
+        "SCF Control Mappings": [
+            "BCD-03.1",
+            "BCD-04"
+        ]
+    },
+    {
+        "UUID": "96a3d10d-3a1d-4d67-baf8-65d6cc17f83a",
+        "#": 44,
+        "ERL #": "E-BCM-07",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Training",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related training activity."
+        ],
+        "SCF Control Mappings": [
+            "BCD-03",
+            "BCD-04"
+        ]
+    },
+    {
+        "UUID": "101e5ae0-647e-4015-a6b0-635439c118f1",
+        "#": 45,
+        "ERL #": "E-BCM-08",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Criticality Analysis",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related criticality analysis."
+        ],
+        "SCF Control Mappings": [
+            "BCD-02"
+        ]
+    },
+    {
+        "UUID": "8e24536f-3507-4de4-9026-edfd661e5022",
+        "#": 46,
+        "ERL #": "E-BCM-09",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "COOP Dependency Analysis",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related dependency analysis for applications, systems, services, facilities, stakeholders and third-parties."
+        ],
+        "SCF Control Mappings": [
+            "AST-01.1"
+        ]
+    },
+    {
+        "UUID": "9bcc3af2-a0d2-4e1d-8c1a-bf76d4bdccd6",
+        "#": 47,
+        "ERL #": "E-BCM-10",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Backups",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related data backup scheme that demonstrates the methods of data backup (including protection measures) for all data types to ensure business continuity requirements."
+        ],
+        "SCF Control Mappings": [
+            "BCD-11"
+        ]
+    },
+    {
+        "UUID": "7099eba2-c78b-49ed-89ee-ff0c4e45431f",
+        "#": 48,
+        "ERL #": "E-BCM-11",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Backups - Local",
+        "Artifact Description": [
+            "Documented evidence of event logs for the on-site / local data backup solution."
+        ],
+        "SCF Control Mappings": [
+            "BCD-11",
+            "BCD-11.2"
+        ]
+    },
+    {
+        "UUID": "e912e6ea-65d5-426b-a491-50458c899f20",
+        "#": 49,
+        "ERL #": "E-BCM-12",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Backups - Remote",
+        "Artifact Description": [
+            "Documented evidence of event logs for the off-site / remote data backup solution."
+        ],
+        "SCF Control Mappings": [
+            "BCD-11",
+            "BCD-11.2"
+        ]
+    },
+    {
+        "UUID": "1d92b1bf-ac2b-464f-bacc-e3bfb10e09e8",
+        "#": 50,
+        "ERL #": "E-BCM-13",
+        "Area of Focus": "Business Continuity",
+        "Documentation Artifact": "Backups - Recovery",
+        "Artifact Description": [
+            "Documented evidence of a Continuity of Operations Plan (COOP)-related criticality analysis for applications, systems, services, facilities, stakeholders and third-parties."
+        ],
+        "SCF Control Mappings": [
+            "BCD-11",
+            "BCD-11.1"
+        ]
+    },
+    {
+        "UUID": "a678ee95-d73d-4d37-a57f-ff36379e09de",
+        "#": 51,
+        "ERL #": "E-CHG-01",
+        "Area of Focus": "Change Management",
+        "Documentation Artifact": "Business Impact Analysis (BIA)",
+        "Artifact Description": [
+            "Documented evidence of a Business Impact Analysis (BIA) for proposed changes."
+        ],
+        "SCF Control Mappings": [
+            "RSK-08"
+        ]
+    },
+    {
+        "UUID": "80b6836e-3eef-4269-a0db-2b71092f086d",
+        "#": 52,
+        "ERL #": "E-CHG-02",
+        "Area of Focus": "Change Management",
+        "Documentation Artifact": "Charter - Change Control Board (CCB)",
+        "Artifact Description": [
+            "Documented evidence of the organization's Change Control Board (CCB) charter and mission."
+        ],
+        "SCF Control Mappings": [
+            "CHG-01",
+            "CHG-02"
+        ]
+    },
+    {
+        "UUID": "374e503e-6630-4c03-a80b-3e4d0453a345",
+        "#": 53,
+        "ERL #": "E-CHG-03",
+        "Area of Focus": "Change Management",
+        "Documentation Artifact": "Change Control Board (CCB) Minutes",
+        "Artifact Description": [
+            "Documented evidence of Change Control Board (CCB) meeting minutes"
+        ],
+        "SCF Control Mappings": [
+            "CHG-02.2"
+        ]
+    },
+    {
+        "UUID": "a570dd6b-5310-467c-b99b-d152029adafe",
+        "#": 54,
+        "ERL #": "E-CHG-04",
+        "Area of Focus": "Change Management",
+        "Documentation Artifact": "Evidence of Cybersecurity / Privacy Reviews",
+        "Artifact Description": [
+            "Documented evidence of Change Control Board (CCB) meeting-related cybersecurity and/or privacy reviews for proposed change(s)."
+        ],
+        "SCF Control Mappings": [
+            "CHG-02.3"
+        ]
+    },
+    {
+        "UUID": "5239cf72-cb6e-4b53-bd11-f164e39c5ea6",
+        "#": 55,
+        "ERL #": "E-CPL-01",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Statutory, Regulatory & Contractual Obligations",
+        "Artifact Description": [
+            "Documented evidence of applicable statutory, regulatory and/or contractual obligations for cybersecurity and privacy controls."
+        ],
+        "SCF Control Mappings": [
+            "CPL-01"
+        ]
+    },
+    {
+        "UUID": "77c2ebc2-fb36-4976-bbc3-1e6ab5f89917",
+        "#": 56,
+        "ERL #": "E-CPL-02",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Defined Compliance Scope (DCS)",
+        "Artifact Description": [
+            "Documented evidence of a formal scoping document that identifies applicable statutory, regulatory and/or contractual obligations for the organization. Defines the affected Lines of Business (LOB), internal / external stakeholders and facilities for the specific scope of compliance obligations."
+        ],
+        "SCF Control Mappings": [
+            "AST-04.1",
+            "AST-04.2",
+            "AST-04.3",
+            "CPL-01.2"
+        ]
+    },
+    {
+        "UUID": "929167e2-92ec-406b-9f6b-3f20003a3105",
+        "#": 57,
+        "ERL #": "E-CPL-03",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Controls Responsibility Matrix (CRM)",
+        "Artifact Description": [
+            "Documented evidence of a Controls Responsibility Matrix (CRM), or similar documentation, that identifies the stakeholder involved in executing assigned controls (e.g., Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix)."
+        ],
+        "SCF Control Mappings": [
+            "AST-01.2",
+            "AST-03",
+            "CLD-06.1",
+            "TPM-05.4"
+        ]
+    },
+    {
+        "UUID": "70ebb6e3-d886-4c2b-b8fd-dcc370eb82f4",
+        "#": 58,
+        "ERL #": "E-CPL-04",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Internal Audit (IA)",
+        "Artifact Description": [
+            "Documented evidence of an Internal Audit (IA) capability."
+        ],
+        "SCF Control Mappings": [
+            "CPL-02.1"
+        ]
+    },
+    {
+        "UUID": "0f08fd1d-4a6c-456a-9f47-8ed3f789c5d6",
+        "#": 59,
+        "ERL #": "E-CPL-05",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Internal Audit (IA) Findings",
+        "Artifact Description": [
+            "Documented evidence of a centrally-managed and prioritized repository Internal Audit (IA) findings."
+        ],
+        "SCF Control Mappings": [
+            "CPL-01.1",
+            "CPL-03",
+            "GOV-01.2"
+        ]
+    },
+    {
+        "UUID": "c3a14567-a453-4045-90f0-a3e1002a2af8",
+        "#": 60,
+        "ERL #": "E-CPL-06",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Manufacturer Disclosure Statement for Medical Device Security (MDS2)",
+        "Artifact Description": [
+            "Documented Manufacturer Disclosure Statement for Medical Device Security (MDS2) that communicates information about medical device security and privacy characteristics to current device owners and potential buyers. [note MDS2 is specific to medical device manufacturers]"
+        ],
+        "SCF Control Mappings": [
+            "TDA-01.1",
+            "TDA-02.1",
+            "TDA-02.5",
+            "TDA-04",
+            "TDA-04.1",
+            "TPM-04",
+            "TPM-04.2"
+        ]
+    },
+    {
+        "UUID": "e9a33026-879a-4644-abc4-734bf2d5e83a",
+        "#": 61,
+        "ERL #": "E-CPL-07",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Control Assessments",
+        "Artifact Description": [
+            "Documented evidence of internal or third-party control assessments to provide governance oversight of cybersecurity and privacy controls."
+        ],
+        "SCF Control Mappings": [
+            "CPL-02",
+            "CPL-02.1",
+            "CPL-03",
+            "CPL-03.1"
+        ]
+    },
+    {
+        "UUID": "d3aabb80-9e14-42b4-a1ac-0d7923f50537",
+        "#": 62,
+        "ERL #": "E-CPL-08",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Functional Review of Cybersecurity Controls",
+        "Artifact Description": [
+            "Documented evidence of control testing to ensure cybersecurity controls function as expected."
+        ],
+        "SCF Control Mappings": [
+            "CPL-03.2"
+        ]
+    },
+    {
+        "UUID": "0d51a0a9-6321-4c54-b124-403b86d668a8",
+        "#": 63,
+        "ERL #": "E-CPL-09",
+        "Area of Focus": "Compliance",
+        "Documentation Artifact": "Non-Compliance Oversight Reporting",
+        "Artifact Description": [
+            "Documented evidence of governance oversight reporting of non-compliance to the organization's executive leadership."
+        ],
+        "SCF Control Mappings": [
+            "CPL-02",
+            "GOV-01.2"
+        ]
+    },
+    {
+        "UUID": "36af2b15-8128-4859-9452-80dfb70cec0d",
+        "#": 64,
+        "ERL #": "E-CRY-01",
+        "Area of Focus": "Cryptographic Protections",
+        "Documentation Artifact": "FIPS-Validated Certificates",
+        "Artifact Description": [
+            "Documented evidence of FIPS-validated cryptographic modules. [note FIPS-validated cryptography is specific to US government contractors for NIST SP 800-171 & CMMC compliance]"
+        ],
+        "SCF Control Mappings": [
+            "CRY-03",
+            "CRY-04",
+            "CRY-09",
+            "CRY-09.1",
+            "CRY-09.2"
+        ]
+    },
+    {
+        "UUID": "50cedfe2-bbd4-4f18-86b4-288611919bf0",
+        "#": 65,
+        "ERL #": "E-DCH-01",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Data Classification Scheme",
+        "Artifact Description": [
+            "Documented evidence of an organization-specific data classification scheme."
+        ],
+        "SCF Control Mappings": [
+            "AST-04.1",
+            "DCH-02"
+        ]
+    },
+    {
+        "UUID": "5e9c8c8f-c841-43d8-b5ad-9a862fcb4932",
+        "#": 66,
+        "ERL #": "E-DCH-02",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Data Handling Practices",
+        "Artifact Description": [
+            "Documented evidence of an organization-specific data handling practices (e.g., guidance specific the data classification scheme)."
+        ],
+        "SCF Control Mappings": [
+            "AST-04.1",
+            "DCH-02"
+        ]
+    },
+    {
+        "UUID": "9514c590-dba9-42f6-92a6-311d4cef4127",
+        "#": 67,
+        "ERL #": "E-DCH-03",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Network Diagram - Global System View (GSV)",
+        "Artifact Description": [
+            "Documented evidence of a high-level network diagram that provides a conceptual, logical depiction of the network(s) to describe the interconnections of the systems/applications/services, including internal and external interfaces."
+        ],
+        "SCF Control Mappings": [
+            "AST-04",
+            "NET-02"
+        ]
+    },
+    {
+        "UUID": "206c36a8-acea-482f-806d-498379dd54cb",
+        "#": 68,
+        "ERL #": "E-DCH-04",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Network Diagram - Low Level",
+        "Artifact Description": [
+            "Documented evidence of a low-level network diagram that provides a detailed, logical depiction of assets on the network(s)."
+        ],
+        "SCF Control Mappings": [
+            "AST-04",
+            "NET-02"
+        ]
+    },
+    {
+        "UUID": "bd774cfc-de4e-46e7-a93f-1f13683b4b87",
+        "#": 69,
+        "ERL #": "E-DCH-05",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Data Flow Diagram (DFD)",
+        "Artifact Description": [
+            "Documented evidence of a Data Flow Diagram (DFD) that accurately identifies where sensitive/regulated data is stored, transmitted and/or processed."
+        ],
+        "SCF Control Mappings": [
+            "AST-02.8",
+            "AST-04",
+            "NET-02"
+        ]
+    },
+    {
+        "UUID": "2b4c56bc-2570-4cfb-9a8c-a4ccb120bc1e",
+        "#": 70,
+        "ERL #": "E-DCH-06",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Third-Party Inventories",
+        "Artifact Description": [
+            "Documented evidence of an inventory of Third-Party Service Providers (TSP), contractors, vendors, etc. that directly or indirectly impact the organization's data, systems, applications, services and/or processes."
+        ],
+        "SCF Control Mappings": [
+            "TPM-01.1"
+        ]
+    },
+    {
+        "UUID": "f4f7523e-4c96-4d00-b53c-afe97af91465",
+        "#": 71,
+        "ERL #": "E-DCH-07",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Media Sanitization Documentation",
+        "Artifact Description": [
+            "Documented evidence of media sanitization actions."
+        ],
+        "SCF Control Mappings": [
+            "DCH-09",
+            "DCH-09.1"
+        ]
+    },
+    {
+        "UUID": "cbb0de31-c52c-4db1-8f0b-38cabfde4fa0",
+        "#": 72,
+        "ERL #": "E-DCH-08",
+        "Area of Focus": "Data Protection",
+        "Documentation Artifact": "Authorization Documentation",
+        "Artifact Description": [
+            "Documented evidence of that identifies authorized users and processes acting on behalf of authorized users."
+        ],
+        "SCF Control Mappings": [
+            "CFG-08"
+        ]
+    },
+    {
+        "UUID": "de19cb39-40d7-4746-a14c-b83e5d2f6fbe",
+        "#": 73,
+        "ERL #": "E-SAT-01",
+        "Area of Focus": "Education",
+        "Documentation Artifact": "Continuing Professional Education (CPE)",
+        "Artifact Description": [
+            "Documented evidence of Continuing Professional Education (CPE) requirements for cybersecurity and privacy personnel."
+        ],
+        "SCF Control Mappings": [
+            "SAT-03.7"
+        ]
+    },
+    {
+        "UUID": "805dd5fa-2831-4cc2-ad72-3d9d5a8d040e",
+        "#": 74,
+        "ERL #": "E-SAT-02",
+        "Area of Focus": "Education",
+        "Documentation Artifact": "Initial User Training",
+        "Artifact Description": [
+            "Documented evidence of initial user training for cybersecurity and/or privacy topics."
+        ],
+        "SCF Control Mappings": [
+            "SAT-02",
+            "SAT-02.2",
+            "SAT-04",
+            "HRS-05.7"
+        ]
+    },
+    {
+        "UUID": "dec5ba3d-ba2f-4f80-b545-6add49c5cb0e",
+        "#": 75,
+        "ERL #": "E-SAT-03",
+        "Area of Focus": "Education",
+        "Documentation Artifact": "Practical Exercises",
+        "Artifact Description": [
+            "Documented evidence of practical user training exercises for cybersecurity and/or privacy topics (e.g., phishing exercise)."
+        ],
+        "SCF Control Mappings": [
+            "SAT-02.1",
+            "SAT-03.1",
+            "SAT-04"
+        ]
+    },
+    {
+        "UUID": "48ae6150-40bd-47bb-a44d-63a1276a4def",
+        "#": 76,
+        "ERL #": "E-SAT-04",
+        "Area of Focus": "Education",
+        "Documentation Artifact": "Recurring User Training",
+        "Artifact Description": [
+            "Documented evidence of recurring (e.g., annual) user training for cybersecurity and/or privacy topics."
+        ],
+        "SCF Control Mappings": [
+            "SAT-03.4",
+            "SAT-03.6",
+            "SAT-03.7",
+            "SAT-04",
+            "HRS-05.7"
+        ]
+    },
+    {
+        "UUID": "b31ec5d1-6f27-4771-8756-a9adba097cd3",
+        "#": 77,
+        "ERL #": "E-SAT-05",
+        "Area of Focus": "Education",
+        "Documentation Artifact": "Role-Based Training",
+        "Artifact Description": [
+            "Documented evidence of specialized user training for privileged users, executives, individuals who handle sensitive/regulated data, etc."
+        ],
+        "SCF Control Mappings": [
+            "SAT-03",
+            "SAT-03.4",
+            "SAT-03.5",
+            "SAT-04"
+        ]
+    },
+    {
+        "UUID": "6c97ef6a-6a34-47df-907d-4965cea74e45",
+        "#": 78,
+        "ERL #": "E-MON-01",
+        "Area of Focus": "Event Log Monitoring",
+        "Documentation Artifact": "Evidence of Log Review Processes",
+        "Artifact Description": [
+            "Documented evidence of centralized collection and review/analysis of security event logs."
+        ],
+        "SCF Control Mappings": [
+            "MON-01.2",
+            "MON-01.8",
+            "MON-02",
+            "MON-02.2"
+        ]
+    },
+    {
+        "UUID": "94bb7e46-08a7-4540-9776-302f93a95c50",
+        "#": 79,
+        "ERL #": "E-MON-02",
+        "Area of Focus": "Event Log Monitoring",
+        "Documentation Artifact": "Malware Activity",
+        "Artifact Description": [
+            "Documented evidence of malware activity being logged and included as part of the centralized event log collection and review/analysis process."
+        ],
+        "SCF Control Mappings": [
+            "MON-01.8",
+            "MON-02.2",
+            "END-04.3"
+        ]
+    },
+    {
+        "UUID": "298939ca-044c-4b33-83a5-9a444d33ffd1",
+        "#": 80,
+        "ERL #": "E-MON-03",
+        "Area of Focus": "Event Log Monitoring",
+        "Documentation Artifact": "Privileged User Oversight",
+        "Artifact Description": [
+            "Documented evidence of malware activity being logged and included as part of the centralized event log collection and review/analysis process."
+        ],
+        "SCF Control Mappings": [
+            "MON-01.14",
+            "MON-01.15"
+        ]
+    },
+    {
+        "UUID": "c895a206-3708-43be-932d-2e07d5d10e26",
+        "#": 81,
+        "ERL #": "E-MON-04",
+        "Area of Focus": "Event Log Monitoring",
+        "Documentation Artifact": "Rogue Devices",
+        "Artifact Description": [
+            "Documented evidence of rogue device identification is included as part of the centralized event log collection and review/analysis process."
+        ],
+        "SCF Control Mappings": [
+            "AST-02.6"
+        ]
+    },
+    {
+        "UUID": "e675ecd9-8bd0-469a-8ea8-d5d2a4b04283",
+        "#": 82,
+        "ERL #": "E-MON-05",
+        "Area of Focus": "Event Log Monitoring",
+        "Documentation Artifact": "Security Events",
+        "Artifact Description": [
+            "Documented evidence of security-relevant activities being logged and included as part of the centralized event log collection and review/analysis process."
+        ],
+        "SCF Control Mappings": [
+            "MON-01.2",
+            "MON-01.8",
+            "MON-02",
+            "MON-02.2"
+        ]
+    },
+    {
+        "UUID": "69b6e60e-b6e9-40d0-b0a6-98a88e6e0eff",
+        "#": 83,
+        "ERL #": "E-HRS-01",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Defined Cybersecurity & Privacy Roles",
+        "Artifact Description": [
+            "Documented evidence of a discrete roles for cybersecurity and privacy functions (e.g., position categorization). "
+        ],
+        "SCF Control Mappings": [
+            "GOV-04",
+            "HRS-02",
+            "HRS-03",
+            "HRS-03.1"
+        ]
+    },
+    {
+        "UUID": "2675ab71-153a-422f-beef-8ddf46fe68ab",
+        "#": 84,
+        "ERL #": "E-HRS-02",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Assigned Roles - Application Developers",
+        "Artifact Description": [
+            "List of employed or contract personnel assigned to application development roles."
+        ],
+        "SCF Control Mappings": [
+            "HRS-02",
+            "HRS-02.1",
+            "HRS-03"
+        ]
+    },
+    {
+        "UUID": "e62929b9-4104-4b73-a594-12b523de48e3",
+        "#": 85,
+        "ERL #": "E-HRS-03",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Assigned Roles - Cybersecurity Staff",
+        "Artifact Description": [
+            "List of employed or contract personnel assigned to cybersecurity roles."
+        ],
+        "SCF Control Mappings": [
+            "HRS-02",
+            "HRS-02.1",
+            "HRS-03"
+        ]
+    },
+    {
+        "UUID": "f7de5e4f-19fa-4cef-abdd-e6f092344c85",
+        "#": 86,
+        "ERL #": "E-HRS-04",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Assigned Roles - Privacy Staff",
+        "Artifact Description": [
+            "List of employed or contract personnel assigned to privacy roles."
+        ],
+        "SCF Control Mappings": [
+            "HRS-02",
+            "HRS-02.1",
+            "HRS-03"
+        ]
+    },
+    {
+        "UUID": "b9bfc620-a91a-492a-be04-411882020b87",
+        "#": 87,
+        "ERL #": "E-HRS-05",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - CISO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to the Chief Information Security Officer (CISO) position."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04"
+        ]
+    },
+    {
+        "UUID": "667e2b0b-e3a6-4aa2-b909-808891fd2abe",
+        "#": 88,
+        "ERL #": "E-HRS-06",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - COO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to the Chief Operations Officer (COO) position."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04"
+        ]
+    },
+    {
+        "UUID": "cfa09281-ddf1-4987-a7d0-77b57aa6a107",
+        "#": 89,
+        "ERL #": "E-HRS-07",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - CIO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to the Chief Information Officer (CIO) position."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04"
+        ]
+    },
+    {
+        "UUID": "d5d0460e-2e9c-432c-a7b4-7fc91682759b",
+        "#": 90,
+        "ERL #": "E-HRS-08",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - CPO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to the Chief Privacy Officer (CPO) position."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04",
+            "PRI-01.1"
+        ]
+    },
+    {
+        "UUID": "9f733c35-5aec-4dde-a182-7e86e8f7f20f",
+        "#": 91,
+        "ERL #": "E-HRS-09",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - CRO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to the Chief Risk Officer (CRO) position."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04"
+        ]
+    },
+    {
+        "UUID": "8a234e63-9ac1-4f45-b16f-cb3343ee2aed",
+        "#": 92,
+        "ERL #": "E-HRS-10",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - DPO",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to Data Protection Officer (DPO) positions."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04",
+            "PRI-01.4"
+        ]
+    },
+    {
+        "UUID": "13594fe9-3fc2-48a2-85ee-f8e7847ac06a",
+        "#": 93,
+        "ERL #": "E-HRS-11",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Assignment - Sensitive / Regulated Data",
+        "Artifact Description": [
+            "Documented evidence of a formal role assignment to personnel who are cleared to handle sensitive/regulated data."
+        ],
+        "SCF Control Mappings": [
+            "HRS-02",
+            "HRS-02.1",
+            "HRS-03"
+        ]
+    },
+    {
+        "UUID": "dcae7a04-b763-433f-bcae-63c6e930e9de",
+        "#": 94,
+        "ERL #": "E-HRS-12",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Role Review",
+        "Artifact Description": [
+            "Documented evidence of a formal review process to ensure personnel roles currently reflect business needs."
+        ],
+        "SCF Control Mappings": [
+            "IAC-07",
+            "IAC-07.1",
+            "IAC-08",
+            "IAC-17"
+        ]
+    },
+    {
+        "UUID": "105cddab-21d3-4632-80da-75f6ef51789d",
+        "#": 95,
+        "ERL #": "E-HRS-13",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Defined Cybersecurity & Privacy Responsibilities",
+        "Artifact Description": [
+            "Documented evidence of a role-based cybersecurity and privacy responsibilities to ensure personnel are both educated on the role and are responsible for the associated control execution."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04",
+            "HRS-03",
+            "HRS-03.1"
+        ]
+    },
+    {
+        "UUID": "d36bee38-4bc7-4a04-a6d4-f57ac59d1052",
+        "#": 96,
+        "ERL #": "E-HRS-14",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Responsibilities Review",
+        "Artifact Description": [
+            "Documented evidence of a formal review process to ensure assigned responsibilities currently reflect business needs for the assigned role."
+        ],
+        "SCF Control Mappings": [
+            "IAC-17"
+        ]
+    },
+    {
+        "UUID": "4eea34ab-7e83-446c-9f15-9193cb3877ea",
+        "#": 97,
+        "ERL #": "E-HRS-15",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Organization Chart",
+        "Artifact Description": [
+            "Current and accurate organization chart that depicts logical staff hierarchies."
+        ],
+        "SCF Control Mappings": [
+            "GOV-04",
+            "GOV-04.1",
+            "GOV-04.2"
+        ]
+    },
+    {
+        "UUID": "5bf1929f-f98e-42fc-81a8-f845176160d8",
+        "#": 98,
+        "ERL #": "E-HRS-16",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Access Agreements ",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices protecting sensitive/regulated data through formal access agreements."
+        ],
+        "SCF Control Mappings": [
+            "HRS-03.1",
+            "HRS-05",
+            "HRS-06",
+            "HRS-10"
+        ]
+    },
+    {
+        "UUID": "ed2846d8-c754-4490-92de-f6a743a78a3c",
+        "#": 99,
+        "ERL #": "E-HRS-17",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Background Checks",
+        "Artifact Description": [
+            "Documented evidence of personnel screening practices, which centers around some form of formalized background check process."
+        ],
+        "SCF Control Mappings": [
+            "HRS-04",
+            "HRS-04.1"
+        ]
+    },
+    {
+        "UUID": "6344bea7-a8c9-454c-9778-1271e16c41e9",
+        "#": 100,
+        "ERL #": "E-HRS-18",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Provisioning Checklist (Onboarding)",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to formally onboard personnel into their assigned roles."
+        ],
+        "SCF Control Mappings": [
+            "HRS-03",
+            "HRS-03.1",
+            "HRS-04.2",
+            "HRS-05.7",
+            "HRS-10",
+            "IAC-07"
+        ]
+    },
+    {
+        "UUID": "42900b64-de35-4bf2-b6c0-846967817f5e",
+        "#": 101,
+        "ERL #": "E-HRS-19",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Deprovisioning Checklist (Offboarding)",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to formally offboard personnel from their assigned roles due to employment termination or role change."
+        ],
+        "SCF Control Mappings": [
+            "HRS-06.2",
+            "HRS-09",
+            "HRS-09.1",
+            "HRS-09.2",
+            "HRS-09.3",
+            "IAC-07",
+            "IAC-07.1",
+            "IAC-07.2"
+        ]
+    },
+    {
+        "UUID": "ed16109d-52eb-4344-998c-ed2be33caa63",
+        "#": 102,
+        "ERL #": "E-HRS-20",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Non-Disclosure Agreements (NDAs)",
+        "Artifact Description": [
+            "Documented evidence of the use of Non-Disclosure Agreements (NDAs) that restricts unauthorized sharing of sensitive/regulated data."
+        ],
+        "SCF Control Mappings": [
+            "HRS-06.1"
+        ]
+    },
+    {
+        "UUID": "8e7a0d67-e995-468c-8f18-07124c896746",
+        "#": 103,
+        "ERL #": "E-HRS-21",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Position Competency Requirements",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to define minimum competency requirements for cybersecurity & privacy-related roles."
+        ],
+        "SCF Control Mappings": [
+            "HRS-03.2",
+            "HRS-04",
+            "HRS-04.1"
+        ]
+    },
+    {
+        "UUID": "dc99395f-9c20-4756-8c84-c3164bf81363",
+        "#": 104,
+        "ERL #": "E-HRS-22",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Rules of Behavior",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to define \"acceptable use\" or \"rules of behavior\" criteria that specify acceptable and unacceptable user behaviors. "
+        ],
+        "SCF Control Mappings": [
+            "HRS-02",
+            "HRS-02.1",
+            "HRS-03",
+            "HRS-05",
+            "HRS-05.1",
+            "HRS-05.2",
+            "HRS-05.3",
+            "HRS-05.4",
+            "HRS-05.5",
+            "HRS-10"
+        ]
+    },
+    {
+        "UUID": "1f4d249b-f528-40c5-95c6-56a47e9dfa8c",
+        "#": 105,
+        "ERL #": "E-HRS-23",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Critical Cybersecurity & Privacy Skills",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to formally identify critical cybersecurity skills needed to support business operations."
+        ],
+        "SCF Control Mappings": [
+            "HRS-03.2",
+            "HRS-13"
+        ]
+    },
+    {
+        "UUID": "94654d03-d06a-464e-a9d6-cbfcb9aacdcf",
+        "#": 106,
+        "ERL #": "E-HRS-24",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Critical Cybersecurity & Privacy Skill Gaps",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to formally identify critical cybersecurity skill gaps."
+        ],
+        "SCF Control Mappings": [
+            "HRS-13",
+            "HRS-13.1"
+        ]
+    },
+    {
+        "UUID": "5d65fecd-3327-447a-9bee-2722283d41fa",
+        "#": 107,
+        "ERL #": "E-HRS-25",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Separation of Duties (SoD)",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to implement and maintain Separation of Duties (SoD) to prevent potential inappropriate activity without collusion."
+        ],
+        "SCF Control Mappings": [
+            "HRS-11",
+            "HRS-12"
+        ]
+    },
+    {
+        "UUID": "4b14fc46-abc0-4e47-a6d8-d2cc5caf1775",
+        "#": 108,
+        "ERL #": "E-HRS-26",
+        "Area of Focus": "Human Resources",
+        "Documentation Artifact": "Vital Cybersecurity & Privacy Staff",
+        "Artifact Description": [
+            "Documented evidence of personnel management practices to formally identify vital cybersecurity & privacy personnel."
+        ],
+        "SCF Control Mappings": [
+            "HRS-13.2"
+        ]
+    },
+    {
+        "UUID": "157381f9-2f71-4103-8f09-d2b5e190e4f1",
+        "#": 109,
+        "ERL #": "E-IAM-01",
+        "Area of Focus": "Identity & Access Management",
+        "Documentation Artifact": "Access Permission Review",
+        "Artifact Description": [
+            "Documented evidence of periodic access permission reviews."
+        ],
+        "SCF Control Mappings": [
+            "IAC-17"
+        ]
+    },
+    {
+        "UUID": "4f0c71ab-2ac4-4a20-90bb-8ef04de47ad3",
+        "#": 110,
+        "ERL #": "E-IAM-02",
+        "Area of Focus": "Identity & Access Management",
+        "Documentation Artifact": "Defined Roles (RBAC)",
+        "Artifact Description": [
+            "Documented evidence of defined access control-specific roles (e.g., Role Based Access Control (RBAC))."
+        ],
+        "SCF Control Mappings": [
+            "IAC-08"
+        ]
+    },
+    {
+        "UUID": "73097b5c-60a4-41ff-83ee-6697ab6701d5",
+        "#": 111,
+        "ERL #": "E-IAM-03",
+        "Area of Focus": "Identity & Access Management",
+        "Documentation Artifact": "Privileged User Inventory",
+        "Artifact Description": [
+            "Documented evidence of an inventory of privileged users across systems, applications and services (internal and external)."
+        ],
+        "SCF Control Mappings": [
+            "IAC-16",
+            "IAC-16.1"
+        ]
+    },
+    {
+        "UUID": "1c23c772-7599-4aa3-8364-4faf43cfb674",
+        "#": 112,
+        "ERL #": "E-IRO-01",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "Incident Response Program (IRP)",
+        "Artifact Description": [
+            "Documented evidence of a Incident Response Plan (IRP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "IRO-04"
+        ]
+    },
+    {
+        "UUID": "9f7ff810-be3a-4da3-b8c7-9a0eefeb5327",
+        "#": 113,
+        "ERL #": "E-IRO-02",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "Indicators of Compromise (IOC)",
+        "Artifact Description": [
+            "Documented evidence of defined Indicators of Compromise (IOC)."
+        ],
+        "SCF Control Mappings": [
+            "IRO-03"
+        ]
+    },
+    {
+        "UUID": "df45ed75-1ac6-4951-9c43-e45309b5760a",
+        "#": 114,
+        "ERL #": "E-IRO-03",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "Incident Tracking",
+        "Artifact Description": [
+            "Documented evidence of a centralized repository to track cybersecurity and privacy incidents."
+        ],
+        "SCF Control Mappings": [
+            "IRO-02",
+            "IRO-09"
+        ]
+    },
+    {
+        "UUID": "745ceb66-3e17-40a3-9914-225aa3d5ba53",
+        "#": 115,
+        "ERL #": "E-IRO-04",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "IRP Testing",
+        "Artifact Description": [
+            "Documented evidence of an Incident Response Plan (IRP)-related testing activity."
+        ],
+        "SCF Control Mappings": [
+            "IRO-06"
+        ]
+    },
+    {
+        "UUID": "1fdc0e9c-1f59-49ee-ba26-9cf604f72b45",
+        "#": 116,
+        "ERL #": "E-IRO-05",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "Table Top Exercises",
+        "Artifact Description": [
+            "Documented evidence of \"table top\" exercises that test incident response practices."
+        ],
+        "SCF Control Mappings": [
+            "IRO-05"
+        ]
+    },
+    {
+        "UUID": "ba23e291-26ff-493c-bde7-d012d069db86",
+        "#": 117,
+        "ERL #": "E-IRO-06",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "IRP Training",
+        "Artifact Description": [
+            "Documented evidence of an Incident Response Plan (IRP)-related training activity."
+        ],
+        "SCF Control Mappings": [
+            "IRO-05"
+        ]
+    },
+    {
+        "UUID": "d2696584-fa2c-4808-8bbd-f6927176ffdc",
+        "#": 118,
+        "ERL #": "E-IRO-07",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "IRP Updates",
+        "Artifact Description": [
+            "Documented evidence of a periodic review process for the organization's Incident Response Plan (IRP) to identify necessary updates."
+        ],
+        "SCF Control Mappings": [
+            "IRO-04.2"
+        ]
+    },
+    {
+        "UUID": "fdfc990c-3104-451b-9678-1903a1d9b837",
+        "#": 119,
+        "ERL #": "E-IRO-08",
+        "Area of Focus": "Incident Response",
+        "Documentation Artifact": "Root Cause Analysis (RCA)",
+        "Artifact Description": [
+            "Documented evidence of a Root Cause Analysis (RCA) from any Incident Response Plan (IRP)-related training, testing or incident."
+        ],
+        "SCF Control Mappings": [
+            "IRO-13"
+        ]
+    },
+    {
+        "UUID": "bbcfecb3-e47c-4d4c-a67e-8f03788d812b",
+        "#": 120,
+        "ERL #": "E-IAO-01",
+        "Area of Focus": "Information Assurance",
+        "Documentation Artifact": "Information Assurance Program (IAP)",
+        "Artifact Description": [
+            "Documented evidence of a Information Assurance Program (IAP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "IAO-01"
+        ]
+    },
+    {
+        "UUID": "a74541dc-9f5d-4811-b85b-2eb3be360bce",
+        "#": 121,
+        "ERL #": "E-IAO-02",
+        "Area of Focus": "Information Assurance",
+        "Documentation Artifact": "Artificial Intelligence Test, Evaluation, Validation & Verification (AI TEVV)",
+        "Artifact Description": [
+            "Documented evidence of Artificial Intelligence Test, Evaluation, Validation & Verification (AI TEVV) practices to enable AI-related testing, identification of incidents and information sharing."
+        ],
+        "SCF Control Mappings": [
+            "AAT-10"
+        ]
+    },
+    {
+        "UUID": "8654cdb6-c1a1-4af1-8e7c-242431f6310d",
+        "#": 122,
+        "ERL #": "E-MNT-01",
+        "Area of Focus": "Maintenance",
+        "Documentation Artifact": "Maintenance - Authorized Maintenance Personnel",
+        "Artifact Description": [
+            "Documented evidence of personnel who have designated maintenance roles."
+        ],
+        "SCF Control Mappings": [
+            "MNT-06.1"
+        ]
+    },
+    {
+        "UUID": "eeac539f-870b-4f4f-9844-e4307a1025ef",
+        "#": 123,
+        "ERL #": "E-MNT-02",
+        "Area of Focus": "Maintenance",
+        "Documentation Artifact": "Maintenance Plan",
+        "Artifact Description": [
+            "Documented evidence of a Maintenance Plan. This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "MNT-01"
+        ]
+    },
+    {
+        "UUID": "0b7dcd39-f25b-4538-a1cc-2d841f626f7f",
+        "#": 124,
+        "ERL #": "E-MNT-03",
+        "Area of Focus": "Maintenance",
+        "Documentation Artifact": "Patch Management",
+        "Artifact Description": [
+            "Documented evidence of maintenance activities for systems, applications and services management (e.g., patch management)."
+        ],
+        "SCF Control Mappings": [
+            "VPM-01",
+            "VPM-04",
+            "VPM-05"
+        ]
+    },
+    {
+        "UUID": "9ce50c6c-e326-4f84-a194-a29e57345451",
+        "#": 125,
+        "ERL #": "E-MNT-04",
+        "Area of Focus": "Maintenance",
+        "Documentation Artifact": "Infrastructure Maintenance",
+        "Artifact Description": [
+            "Documented evidence of maintenance activities for the organization's infrastructure and supporting systems."
+        ],
+        "SCF Control Mappings": [
+            "MNT-01",
+            "MNT-02",
+            "MNT-03",
+            "MNT-03.1"
+        ]
+    },
+    {
+        "UUID": "87bb0267-784b-448b-9824-1feaf3ae0070",
+        "#": 126,
+        "ERL #": "E-NET-01",
+        "Area of Focus": "Network Security",
+        "Documentation Artifact": "Content / DNS Filtering",
+        "Artifact Description": [
+            "Documented evidence of the methods that content / DNS filtering is implemented to prevent Internet traffic from prohibited content and/or hostile web sites."
+        ],
+        "SCF Control Mappings": [
+            "NET-18",
+            "NET-18.1"
+        ]
+    },
+    {
+        "UUID": "fa799b7b-95ba-40a5-9528-eda319ea1848",
+        "#": 127,
+        "ERL #": "E-NET-02",
+        "Area of Focus": "Network Security",
+        "Documentation Artifact": "Wireless Rogue Detection",
+        "Artifact Description": [
+            "Documented evidence of automated or manual means to detect rogue wireless devices."
+        ],
+        "SCF Control Mappings": [
+            "NET-15.5"
+        ]
+    },
+    {
+        "UUID": "a348cbec-c5c7-4849-844f-7afb04f7bdd6",
+        "#": 128,
+        "ERL #": "E-NET-03",
+        "Area of Focus": "Network Security",
+        "Documentation Artifact": "Work From Anywhere (WFA) Guidance (remote workers)",
+        "Artifact Description": [
+            "Documented evidence of administrative and technical measures that are enforced at \"alternate work sites\" which includes working from home or working while traveling on business."
+        ],
+        "SCF Control Mappings": [
+            "NET-14",
+            "NET-14.5"
+        ]
+    },
+    {
+        "UUID": "8ee158f9-716e-485c-b803-23c51c3a9d62",
+        "#": 129,
+        "ERL #": "E-PES-01",
+        "Area of Focus": "Physical Security",
+        "Documentation Artifact": "Environmental Monitoring",
+        "Artifact Description": [
+            "Documented evidence of environmental monitoring (e.g., water leaks, temperature, humidity, etc.)"
+        ],
+        "SCF Control Mappings": [
+            "PES-01",
+            "PES-07",
+            "PES-08",
+            "PES-09"
+        ]
+    },
+    {
+        "UUID": "b00aa448-aee1-48b0-a564-8692bca1f460",
+        "#": 130,
+        "ERL #": "E-PES-02",
+        "Area of Focus": "Physical Security",
+        "Documentation Artifact": "Visitor Logbook",
+        "Artifact Description": [
+            "Documented evidence of a visitor management and logging visitor activities."
+        ],
+        "SCF Control Mappings": [
+            "PES-03",
+            "PES-03.3",
+            "PES-06",
+            "PES-06.4"
+        ]
+    },
+    {
+        "UUID": "7c7fd694-47d4-49cf-af16-e6837ab62ac4",
+        "#": 131,
+        "ERL #": "E-PES-03",
+        "Area of Focus": "Physical Security ",
+        "Documentation Artifact": "Defined Physical Security Roles",
+        "Artifact Description": [
+            "Documented evidence of defined physical access control-specific roles that limit physical access to rooms and/or facilities."
+        ],
+        "SCF Control Mappings": [
+            "PES-02",
+            "PES-02.1"
+        ]
+    },
+    {
+        "UUID": "2d38283e-fcbf-48f3-abf9-666e48cb0d0f",
+        "#": 132,
+        "ERL #": "E-PES-04",
+        "Area of Focus": "Physical Security ",
+        "Documentation Artifact": "Site Security Plan (Site Plan)",
+        "Artifact Description": [
+            "Documented evidence of a site security plan (site plan)."
+        ],
+        "SCF Control Mappings": [
+            "PES-01.1"
+        ]
+    },
+    {
+        "UUID": "590f857c-1712-48a7-804f-6dd3ebccb591",
+        "#": 133,
+        "ERL #": "E-PRI-01",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Accounting of Disclosures",
+        "Artifact Description": [
+            "Documented evidence of accounting for privacy-related disclosures."
+        ],
+        "SCF Control Mappings": [
+            "PRI-14.1"
+        ]
+    },
+    {
+        "UUID": "62ae9c5d-4d22-41ea-a8d3-5733ce5752c1",
+        "#": 134,
+        "ERL #": "E-PRI-02",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Authorized Use",
+        "Artifact Description": [
+            "Documented evidence of authorized use definitions for privacy-related data operations."
+        ],
+        "SCF Control Mappings": [
+            "PRI-04",
+            "PRI-04.1",
+            "PRI-05",
+            "PRI-05.1"
+        ]
+    },
+    {
+        "UUID": "aeab3d61-2500-4c31-982f-d9cf7554e131",
+        "#": 135,
+        "ERL #": "E-PRI-03",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Data Authority Registrations",
+        "Artifact Description": [
+            "Documented evidence of registrations made with applicable data authorities for privacy-related data processing."
+        ],
+        "SCF Control Mappings": [
+            "PRI-15"
+        ]
+    },
+    {
+        "UUID": "7775a3c8-b760-42eb-9320-63736a42d04d",
+        "#": 136,
+        "ERL #": "E-PRI-04",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Data Protection Impact Assessment (DPIA)",
+        "Artifact Description": [
+            "Documented evidence of Data Protection Impact Assessment (DPIA)."
+        ],
+        "SCF Control Mappings": [
+            "RSK-10"
+        ]
+    },
+    {
+        "UUID": "15e0f7ec-5299-4648-a8ac-fabb1a55131c",
+        "#": 137,
+        "ERL #": "E-PRI-05",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Data Sharing Agreement",
+        "Artifact Description": [
+            "Documented evidence of formal data sharing practices that address, at a minimum:",
+            "\u2022 The business justification for the data sharing;",
+            "\u2022 The type / category of data being shared;",
+            "\u2022 The third-parties the data is being shared with;",
+            "\u2022 Lawful bases for data sharing; and",
+            "\u2022 Data subject rights."
+        ],
+        "SCF Control Mappings": [
+            "PRI-01.5",
+            "PRI-07",
+            "PRI-07.1",
+            "PRI-07.2"
+        ]
+    },
+    {
+        "UUID": "6310e96c-7be4-45e0-a69a-d64fb5955568",
+        "#": 138,
+        "ERL #": "E-PRI-06",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Data Subject Access",
+        "Artifact Description": [
+            "Documented evidence of how data subject access requests are handled that includes intake through remediation."
+        ],
+        "SCF Control Mappings": [
+            "PRI-06"
+        ]
+    },
+    {
+        "UUID": "1e663fc0-7d64-406c-8fad-14139ed4ed99",
+        "#": 139,
+        "ERL #": "E-PRI-07",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Personal Data Categories",
+        "Artifact Description": [
+            "Documented evidence of formal personal data categories."
+        ],
+        "SCF Control Mappings": [
+            "PRI-05.7"
+        ]
+    },
+    {
+        "UUID": "f04cc6e9-bee3-42db-976d-22795ef89c54",
+        "#": 140,
+        "ERL #": "E-PRI-08",
+        "Area of Focus": "Privacy",
+        "Documentation Artifact": "Privacy Notice",
+        "Artifact Description": [
+            "Documented evidence of a publicly-accessible privacy notice."
+        ],
+        "SCF Control Mappings": [
+            "PRI-02"
+        ]
+    },
+    {
+        "UUID": "5c0f722c-abad-4d3a-b9a8-9c0d10a9e91f",
+        "#": 141,
+        "ERL #": "E-PRM-01",
+        "Area of Focus": "Resource Management",
+        "Documentation Artifact": "Cybersecurity Business Plan (CBP)",
+        "Artifact Description": [
+            "Documented evidence of a cybersecurity-specific business plan that documents a strategic plan and discrete objectives."
+        ],
+        "SCF Control Mappings": [
+            "GOV-08",
+            "PRM-01.1",
+            "PRM-03"
+        ]
+    },
+    {
+        "UUID": "8abab5a5-fd50-4216-8ef9-a46748da0f9e",
+        "#": 142,
+        "ERL #": "E-PRM-02",
+        "Area of Focus": "Resource Management",
+        "Documentation Artifact": "Portfolio Roadmap",
+        "Artifact Description": [
+            "Documented evidence of the organization's roadmap for implementing cybersecurity-related initiatives and technologies."
+        ],
+        "SCF Control Mappings": [
+            "PRM-01",
+            "PRM-02",
+            "PRM-03"
+        ]
+    },
+    {
+        "UUID": "9dd7b491-fc48-47b5-a80d-f556ee7d31b7",
+        "#": 143,
+        "ERL #": "E-PRM-03",
+        "Area of Focus": "Resource Management",
+        "Documentation Artifact": "Secure Development Lifecycle (SDLC)",
+        "Artifact Description": [
+            "Documented evidence of a secure development lifecycle that the organization utilizes for new initiatives or significant changes to existing initiatives to ensure cybersecurity and privacy principles are identified and implemented by default."
+        ],
+        "SCF Control Mappings": [
+            "PRM-04",
+            "PRM-05",
+            "PRM-06",
+            "PRM-07"
+        ]
+    },
+    {
+        "UUID": "f762df55-7ea0-41f1-ba1f-a9958f097b62",
+        "#": 144,
+        "ERL #": "E-PRM-04",
+        "Area of Focus": "Resource Management",
+        "Documentation Artifact": "Targeted Maturity Level",
+        "Artifact Description": [
+            "Documented evidence of a targeted level of control maturity from a Capability Maturity Model (CMM)."
+        ],
+        "SCF Control Mappings": [
+            "PRM-01.2"
+        ]
+    },
+    {
+        "UUID": "920531ee-30f4-4920-b6e6-ab28ab5174f1",
+        "#": 145,
+        "ERL #": "E-RSK-01",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Risk Management Program (RMP)",
+        "Artifact Description": [
+            "Documented evidence of a Risk Management Program (RMP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "RSK-01"
+        ]
+    },
+    {
+        "UUID": "e53f8601-9f8b-4506-a361-4166a7031107",
+        "#": 146,
+        "ERL #": "E-RSK-02",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Cybersecurity Supply Chain Risk Management (C-SCRM)",
+        "Artifact Description": [
+            "Documented evidence of a Cybersecurity Supply Chain Risk Management (C-SCRM). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "RSK-09",
+            "TPM-03"
+        ]
+    },
+    {
+        "UUID": "85f0b870-a0c8-454c-bd62-d2c5ae208c75",
+        "#": 147,
+        "ERL #": "E-RSK-03",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Plan of Actions & Milestones (POA&M) / Risk Register",
+        "Artifact Description": [
+            "Documented evidence of a POA&M, or risk register, that tracks control deficiencies from identification through remediation."
+        ],
+        "SCF Control Mappings": [
+            "AST-02.4",
+            "CPL-02",
+            "RSK-04.1"
+        ]
+    },
+    {
+        "UUID": "a0b06b50-407e-4c41-b88a-fef0190679f8",
+        "#": 148,
+        "ERL #": "E-RSK-04",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Cybersecurity Risk Assessment (RA)",
+        "Artifact Description": [
+            "Documented evidence of a cybersecurity-specific risk assessment."
+        ],
+        "SCF Control Mappings": [
+            "RSK-04"
+        ]
+    },
+    {
+        "UUID": "c2ab06df-b2d3-4dbd-bf2b-97e567c3b778",
+        "#": 149,
+        "ERL #": "E-RSK-05",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Supply Chain Risk Assessment (SCRA)",
+        "Artifact Description": [
+            "Documented evidence of supply chain-specific risk assessment that evaluates risks that are specific to its supply chain."
+        ],
+        "SCF Control Mappings": [
+            "RSK-09.1"
+        ]
+    },
+    {
+        "UUID": "6ea94a1f-499e-4fa9-ab6a-dcda1b3bc324",
+        "#": 150,
+        "ERL #": "E-RSK-06",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Risk Threshold",
+        "Artifact Description": [
+            "Documented evidence the organization has a defined risk threshold."
+        ],
+        "SCF Control Mappings": [
+            "RSK-01.3"
+        ]
+    },
+    {
+        "UUID": "0499c280-eea6-45ff-9c24-745ece194f3e",
+        "#": 151,
+        "ERL #": "E-RSK-07",
+        "Area of Focus": "Risk Management",
+        "Documentation Artifact": "Risk Tolerance",
+        "Artifact Description": [
+            "Documented evidence the organization has a defined risk tolerance."
+        ],
+        "SCF Control Mappings": [
+            "RSK-01.4"
+        ]
+    },
+    {
+        "UUID": "b2145d80-ab4f-4152-8ffd-7b5623dce4f8",
+        "#": 152,
+        "ERL #": "E-TDA-01",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Secure Software Development Principles (SSDP)",
+        "Artifact Description": [
+            "Documented evidence of a Secure Software Development Principles (SSDP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "SEA-01",
+            "TDA-01"
+        ]
+    },
+    {
+        "UUID": "8feddde0-f519-4e2c-aab8-e7c0b61b667c",
+        "#": 153,
+        "ERL #": "E-TDA-02",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Security & Privacy by Design (SPBD)",
+        "Artifact Description": [
+            "Documented evidence of a Security & Privacy by Design (SPBD). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "SEA-01",
+            "TDA-01"
+        ]
+    },
+    {
+        "UUID": "e241afe4-83cd-4dda-a605-9a679db84d83",
+        "#": 154,
+        "ERL #": "E-TDA-03",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Application Security Testing",
+        "Artifact Description": [
+            "Documented evidence of application security testing (e.g., DAST, SAST, fuzzing, etc.)."
+        ],
+        "SCF Control Mappings": [
+            "TDA-06.2",
+            "TDA-09",
+            "TDA-09.1",
+            "TDA-09.2",
+            "TDA-09.3",
+            "TDA-09.4",
+            "TDA-09.5",
+            "TDA-09.6"
+        ]
+    },
+    {
+        "UUID": "726e1c5b-488a-43d7-ae11-50d41fdb6fda",
+        "#": 155,
+        "ERL #": "E-TDA-04",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Design and Development Plan (DDP)",
+        "Artifact Description": [
+            "Documented evidence of an engineering method to control the design process and govern the lifecycle of the product/service."
+        ],
+        "SCF Control Mappings": [
+            "SEA-01",
+            "SEA-02",
+            "SEA-03",
+            "TDA-02.3",
+            "TDA-05",
+            "TDA-06.3"
+        ]
+    },
+    {
+        "UUID": "3d046cb4-93f3-4e4b-b83d-3c8cbd53e5a6",
+        "#": 156,
+        "ERL #": "E-TDA-05",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Failure Mode and Effect Analysis (FMEA)",
+        "Artifact Description": [
+            "Documented evidence of an engineering method designed to define, identify, and present solutions for system failures, problems, or errors."
+        ],
+        "SCF Control Mappings": [
+            "TDA-01.1",
+            "TDA-06.5",
+            "TDA-09"
+        ]
+    },
+    {
+        "UUID": "fd29c989-c03f-4e49-814d-d049414cefc6",
+        "#": 157,
+        "ERL #": "E-TDA-06",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Multi Patient Harm View (MPHV)",
+        "Artifact Description": [
+            "Documented evidence of a description of a Multi Patient Harm View (MPHV) that explains how the device / system defends against and/or responds to attacks with the potential to harm multiple patients. [note MPHV is specific to medical device manufacturers]"
+        ],
+        "SCF Control Mappings": [
+            "TDA-01.1",
+            "TDA-02",
+            "TDA-04",
+            "TDA-04.1"
+        ]
+    },
+    {
+        "UUID": "0188b7a4-6b03-497e-a1b1-7f9ba1b67083",
+        "#": 158,
+        "ERL #": "E-TDA-07",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Ports, Protocols & Services (PPS)",
+        "Artifact Description": [
+            "Documented evidence of all ports, protocols and services in use by the system, application or service."
+        ],
+        "SCF Control Mappings": [
+            "TDA-01.1",
+            "TDA-02.1",
+            "TDA-02.5",
+            "TPM-04.2"
+        ]
+    },
+    {
+        "UUID": "8aa0f306-266e-4ba0-9a79-52c2d520a615",
+        "#": 159,
+        "ERL #": "E-TDA-08",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Secure Engineering Principles (SEP)",
+        "Artifact Description": [
+            "Documented evidence of defined secure engineering principles used to ensure Confidentiality, Integrity, Availability & Safety (CIAS) concerns are properly addressed in the design and implementation of systems, applications and services."
+        ],
+        "SCF Control Mappings": [
+            "SEA-01",
+            "TDA-01",
+            "TDA-06"
+        ]
+    },
+    {
+        "UUID": "d4b377a2-b719-496e-8d62-efe1e0b939ad",
+        "#": 160,
+        "ERL #": "E-TDA-09",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Security Architecture View",
+        "Artifact Description": [
+            "Documented evidence that identifies security-relevant system elements and their interfaces:",
+            "\u2022 Define security context, domains, boundaries, and external interfaces of the system;",
+            "\u2022 Align the architecture with (a) the system security objectives and requirements, (b) security design characteristics; and",
+            "\u2022 Establish traceability of architecture elements to user and system security requirements."
+        ],
+        "SCF Control Mappings": [
+            "CLD-02",
+            "SEA-01",
+            "SEA-02",
+            "SEA-03"
+        ]
+    },
+    {
+        "UUID": "5d5cb4bf-c293-40f9-9d74-bf008ab82ff1",
+        "#": 161,
+        "ERL #": "E-TDA-10",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Security Use Case View (SUCV)",
+        "Artifact Description": [
+            "Documented evidence of diagrams, with explanatory text, describing various security scenarios in each of the operational and clinical functionality states of the system and how the system addresses each scenario architecturally. [note SUCV is specific to medical device manufacturers]"
+        ],
+        "SCF Control Mappings": [
+            "TDA-04",
+            "TDA-04.1",
+            "TDA-06.2"
+        ]
+    },
+    {
+        "UUID": "d9212545-ef0a-45c0-b95e-d9a9f852e8b0",
+        "#": 162,
+        "ERL #": "E-TDA-11",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Software Assurance Maturity Model (SAMM)",
+        "Artifact Description": [
+            "Documented evidence of a Software Assurance Maturity Model (SAMM)."
+        ],
+        "SCF Control Mappings": [
+            "TDA-06",
+            "TDA-06.3"
+        ]
+    },
+    {
+        "UUID": "a065986c-2f3a-4895-a600-bbed78921d1d",
+        "#": 163,
+        "ERL #": "E-TDA-12",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Software Bill of Materials (SBOM)",
+        "Artifact Description": [
+            "Documented evidence of a Software Bill of Materials (SBOM)."
+        ],
+        "SCF Control Mappings": [
+            "TDA-04.2"
+        ]
+    },
+    {
+        "UUID": "044e7b24-dd03-407b-a7fb-e4a139905c7d",
+        "#": 164,
+        "ERL #": "E-TDA-13",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Software Escrow",
+        "Artifact Description": [
+            "Documented evidence of a software escrow solution."
+        ],
+        "SCF Control Mappings": [
+            "TDA-20.3"
+        ]
+    },
+    {
+        "UUID": "4d200a68-f6f8-45a0-b86d-2cec3579160b",
+        "#": 165,
+        "ERL #": "E-TDA-14",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "System Security & Privacy Plan (SSPP)",
+        "Artifact Description": [
+            "Documented evidence of at least one (1) System Security Plan (SSPP) that covers the sensitive/regulated data environment. There may be multiple SSPPs, based on applicable contracts."
+        ],
+        "SCF Control Mappings": [
+            "AST-02.4",
+            "IAO-03"
+        ]
+    },
+    {
+        "UUID": "9249cb9f-b2b0-4843-9323-b0811d32a2d5",
+        "#": 166,
+        "ERL #": "E-TDA-15",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Updateability / Patchability View",
+        "Artifact Description": [
+            "Documented evidence of a description of the end-to-end process permitting software updates and patches to be deployed to the device/service."
+        ],
+        "SCF Control Mappings": [
+            "TDA-01.1",
+            "TDA-01.2",
+            "TDA-04.1"
+        ]
+    },
+    {
+        "UUID": "f5c845bf-600a-4121-b006-065136844d6a",
+        "#": 167,
+        "ERL #": "E-TDA-16",
+        "Area of Focus": "Technology Design & Acquisition",
+        "Documentation Artifact": "Vulnerability Disclosure Program (VDP)",
+        "Artifact Description": [
+            "Documented evidence of a Vulnerability Disclosure Program (VDP) (e.g., bug bounty)."
+        ],
+        "SCF Control Mappings": [
+            "THR-06"
+        ]
+    },
+    {
+        "UUID": "202f9070-2b0c-4eeb-8a7f-df194fcc1229",
+        "#": 168,
+        "ERL #": "E-THR-01",
+        "Area of Focus": "Threat Management",
+        "Documentation Artifact": "Indicators of Exposure (IOE)",
+        "Artifact Description": [
+            "Documented evidence of defined Indicators of Exposure (IOE)."
+        ],
+        "SCF Control Mappings": [
+            "THR-02"
+        ]
+    },
+    {
+        "UUID": "bfe2c519-f5bd-4283-8819-15a2ca686aa0",
+        "#": 169,
+        "ERL #": "E-THR-02",
+        "Area of Focus": "Threat Management",
+        "Documentation Artifact": "Industry Associations / Memberships",
+        "Artifact Description": [
+            "Documented evidence of industry associations the organization utilizes to maintain situational awareness of evolving threats and trends."
+        ],
+        "SCF Control Mappings": [
+            "GOV-07"
+        ]
+    },
+    {
+        "UUID": "1fb7c9d2-e847-4b31-be22-0f5a875a5950",
+        "#": 170,
+        "ERL #": "E-THR-03",
+        "Area of Focus": "Threat Management",
+        "Documentation Artifact": "Threat Intelligence Feeds (TIF)",
+        "Artifact Description": [
+            "Documented evidence of threat intelligence feeds."
+        ],
+        "SCF Control Mappings": [
+            "THR-03"
+        ]
+    },
+    {
+        "UUID": "e5728fe8-4a9a-42e8-b422-aa7a7839ceb3",
+        "#": 171,
+        "ERL #": "E-THR-04",
+        "Area of Focus": "Threat Management",
+        "Documentation Artifact": "Threat Intelligence Program (TIP)",
+        "Artifact Description": [
+            "Documented evidence of a formal capability that intakes and analysis threat information to determine specific threat to the organization and necessary actions to mitigate the threat(s)."
+        ],
+        "SCF Control Mappings": [
+            "THR-01",
+            "THR-04"
+        ]
+    },
+    {
+        "UUID": "a546d5e2-ee75-4252-a512-7ef6dfc8fc15",
+        "#": 172,
+        "ERL #": "E-THR-05",
+        "Area of Focus": "Threat Management",
+        "Documentation Artifact": "Threat Mitigation",
+        "Artifact Description": [
+            "Documented evidence of steps taken to mitigate identified threats."
+        ],
+        "SCF Control Mappings": [
+            "TDA-06.2",
+            "THR-07",
+            "VPM-01",
+            "VPM-04"
+        ]
+    },
+    {
+        "UUID": "39c9007e-5780-44df-a63d-7d25ec99884a",
+        "#": 173,
+        "ERL #": "E-TPM-01",
+        "Area of Focus": "Third-Party Management",
+        "Documentation Artifact": "Third-Party Contracts",
+        "Artifact Description": [
+            "Documented evidence of third-party contractual obligations for cybersecurity and privacy protections."
+        ],
+        "SCF Control Mappings": [
+            "TPM-01",
+            "TPM-05",
+            "PRI-07",
+            "PRI-07.1",
+            "PRI-07.2"
+        ]
+    },
+    {
+        "UUID": "f793b6b0-6538-40ba-8520-91231093d29c",
+        "#": 174,
+        "ERL #": "E-TPM-02",
+        "Area of Focus": "Third-Party Management",
+        "Documentation Artifact": "Third-Party Criticality Assessment",
+        "Artifact Description": [
+            "Documented evidence of third-party criticality assessment that evaluates the critical nature of each third-party the organization works with."
+        ],
+        "SCF Control Mappings": [
+            "TPM-02"
+        ]
+    },
+    {
+        "UUID": "c0530205-402d-4245-aa09-987bedde9258",
+        "#": 175,
+        "ERL #": "E-TPM-03",
+        "Area of Focus": "Third-Party Management",
+        "Documentation Artifact": "Third-Party Service Reviews",
+        "Artifact Description": [
+            "Documented evidence of a formal, annual stakeholder review of third-party services for each Third-Party Service Provider (TSP)."
+        ],
+        "SCF Control Mappings": [
+            "TPM-01",
+            "TPM-05",
+            "TPM-05.5",
+            "TPM-08",
+            "TPM-09"
+        ]
+    },
+    {
+        "UUID": "a86eafbf-98e7-4326-84fb-6bc950a98660",
+        "#": 176,
+        "ERL #": "E-TPM-04",
+        "Area of Focus": "Third-Party Management",
+        "Documentation Artifact": "Service Level Agreements (SLAs)",
+        "Artifact Description": [
+            "Documented evidence of third-party Service Level Agreements (SLAs) to support business operations."
+        ],
+        "SCF Control Mappings": [
+            "BCD-09.3",
+            "BCD-10.1",
+            "OPS-03"
+        ]
+    },
+    {
+        "UUID": "67dedbf6-8ea3-4795-9069-44129ace92c6",
+        "#": 177,
+        "ERL #": "E-TPM-05",
+        "Area of Focus": "Third-Party Management",
+        "Documentation Artifact": "Break Clauses",
+        "Artifact Description": [
+            "Documented evidence of \"break clauses\" in third-party contracts."
+        ],
+        "SCF Control Mappings": [
+            "TPM-05.7"
+        ]
+    },
+    {
+        "UUID": "c3d4631d-c56a-48bb-9b6c-00b4f2ad6b82",
+        "#": 178,
+        "ERL #": "E-VPM-01",
+        "Area of Focus": "Vulnerability & Patch Management",
+        "Documentation Artifact": "Vulnerability & Patch Management Program (VPMP)",
+        "Artifact Description": [
+            "Documented evidence of a Vulnerability & Patch Management Program (VPMP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+        ],
+        "SCF Control Mappings": [
+            "VPM-01"
+        ]
+    },
+    {
+        "UUID": "1264f206-bb5f-4300-b0cb-1b41fc770f1d",
+        "#": 179,
+        "ERL #": "E-VPM-02",
+        "Area of Focus": "Vulnerability Management",
+        "Documentation Artifact": "Penetration Testing - Application",
+        "Artifact Description": [
+            "Documented evidence of Application Security Testing (AST) activities:",
+            "\u2022 Abuse case, malformed, and unexpected inputs (e.g.,  Robustness or Fuzz testing);",
+            "\u2022 Attack surface analysis;",
+            "\u2022 Vulnerability chaining;",
+            "\u2022 Closed box testing of known vulnerability scanning;",
+            "\u2022 Software composition analysis of binary executable files; and/or",
+            "\u2022 Static and dynamic code analysis, including testing for credentials that are \u201chardcoded,\u201d default, easily guessed, and easily compromised."
+        ],
+        "SCF Control Mappings": [
+            "VPM-07"
+        ]
+    },
+    {
+        "UUID": "52c9530a-cd4f-41e5-b363-58b4137d98b0",
+        "#": 180,
+        "ERL #": "E-VPM-03",
+        "Area of Focus": "Vulnerability Management",
+        "Documentation Artifact": "Penetration Testing - Network",
+        "Artifact Description": [
+            "Documented evidence of internal and external network penetration testing activities that focus on discovering and exploiting security vulnerabilities."
+        ],
+        "SCF Control Mappings": [
+            "VPM-07"
+        ]
+    },
+    {
+        "UUID": "269d77da-7544-41b4-896a-03a5cfb3420f",
+        "#": 181,
+        "ERL #": "E-VPM-04",
+        "Area of Focus": "Vulnerability Management",
+        "Documentation Artifact": "Red Team Testing",
+        "Artifact Description": [
+            "Documented evidence of \"red team\" testing."
+        ],
+        "SCF Control Mappings": [
+            "VPM-07.1"
+        ]
+    },
+    {
+        "UUID": "3423322f-74f9-4b90-bba5-579d0d1e902f",
+        "#": 182,
+        "ERL #": "E-VPM-05",
+        "Area of Focus": "Vulnerability Management",
+        "Documentation Artifact": "Vulnerability Assessments",
+        "Artifact Description": [
+            "Documented evidence of internal and external vulnerability assessment activities."
+        ],
+        "SCF Control Mappings": [
+            "VPM-06",
+            "VPM-06.6",
+            "VPM-06.7"
+        ]
+    }
+]

@@ -1,0 +1,333 @@
+[
+    {
+        "UUID": "857e0d76-e6b2-4893-b901-e8bf6518a8c8",
+        "#\u00a0": 1,
+        "SCF Domain": "Security & Privacy Governance",
+        "SCF Identifier": "GOV",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Execute a documented, risk-based program that supports business objectives while encompassing appropriate cybersecurity and privacy principles that address applicable statutory, regulatory and contractual obligations."
+        ],
+        "Principle Intent": "Organizations specify the development of an organization\u2019s cybersecurity and privacy programs, including criteria to measure success, to ensure ongoing leadership engagement and risk management."
+    },
+    {
+        "UUID": "3e3253ea-dbf6-4bba-b77f-b6f886d9f5be",
+        "#\u00a0": 2,
+        "SCF Domain": "Artificial and Autonomous Technology",
+        "SCF Identifier": "AAT",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Ensure trustworthy and resilient Artificial Intelligence (AI) and autonomous technologies to achieve a beneficial impact by informing, advising or simplifying tasks, while minimizing emergent properties or unintended consequences."
+        ],
+        "Principle Intent": "Organizations ensure Artificial Intelligence (AI) and autonomous technologies are designed to be reliable, safe, fair, secure, resilient, transparent, explainable and privacy-enhanced. In addition, AI-related risks are governed according to technology-specific considerations to minimize emergent properties or unintended consequences."
+    },
+    {
+        "UUID": "d503c9cf-66f6-439c-8b40-82fc7c91ef7a",
+        "#\u00a0": "3\u00a0",
+        "SCF Domain": "Asset Management",
+        "SCF Identifier": "AST",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Manage all technology assets from purchase through disposition, both physical and virtual, to ensure secured use, regardless of the asset\u2019s location."
+        ],
+        "Principle Intent": "Organizations ensure technology assets are properly managed throughout the lifecycle of the asset, from procurement through disposal, ensuring only authorized devices are allowed to access the organization\u2019s network and to protect the organization\u2019s data that is stored, processed or transmitted on its assets."
+    },
+    {
+        "UUID": "4d5f516b-2876-448a-911a-9cb9a2cd2978",
+        "#\u00a0": "4\u00a0",
+        "SCF Domain": "Business Continuity & Disaster Recovery",
+        "SCF Identifier": "BCD",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Maintain a resilient capability to sustain business-critical functions while successfully responding to and recovering from incidents through well-documented and exercised processes."
+        ],
+        "Principle Intent": "Organizations establish processes that will help the organization recover from adverse situations with minimal impact to operations, as well as provide the capability for e-discovery."
+    },
+    {
+        "UUID": "6cb17b45-34e0-4130-aad6-5bb097fb6cce",
+        "#\u00a0": "5\u00a0",
+        "SCF Domain": "Capacity & Performance Planning",
+        "SCF Identifier": "CAP",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Govern the current and future capacities and performance of technology assets."
+        ],
+        "Principle Intent": "Organizations prevent avoidable business interruptions caused by capacity and performance limitations by proactively planning for growth and forecasting, as well as requiring both technology and business leadership to maintain situational awareness of current and future performance."
+    },
+    {
+        "UUID": "40c49c46-47e4-4205-a856-c4147ca8aee3",
+        "#\u00a0": "6\u00a0",
+        "SCF Domain": "Change Management",
+        "SCF Identifier": "CHG",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Manage change in a sustainable and ongoing manner that involves active participation from both technology and business stakeholders to ensure that only authorized changes occur. "
+        ],
+        "Principle Intent": "Organizations ensure both technology and business leadership proactively manage change, including the assessment, authorization and monitoring of technical changes across the enterprise so as to not impact production systems uptime and allow easier troubleshooting of issues."
+    },
+    {
+        "UUID": "691e8d49-cab4-4483-8336-b7ec6532defd",
+        "#\u00a0": "7\u00a0",
+        "SCF Domain": "Cloud Security",
+        "SCF Identifier": "CLD",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Govern cloud instances as an extension of on-premise technologies with equal or greater security protections than the organization\u2019s own internal cybersecurity and privacy controls."
+        ],
+        "Principle Intent": "Organizations govern the use of private and public cloud environments (e.g., IaaS, PaaS and SaaS) to holistically manage risks associated with third-party involvement and architectural decisions, as well as to ensure the portability of data to change cloud providers, if needed. "
+    },
+    {
+        "UUID": "824b193e-9047-456d-a3e7-cf219043e345",
+        "#\u00a0": "8\u00a0",
+        "SCF Domain": "Compliance",
+        "SCF Identifier": "CPL",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Oversee the execution of cybersecurity and privacy controls to ensure appropriate evidence required due care and due diligence exists to meet compliance with applicable statutory, regulatory and contractual obligations."
+        ],
+        "Principle Intent": "Organizations ensure controls are in place to ensure adherence to applicable statutory, regulatory and contractual compliance obligations, as well as internal company standards."
+    },
+    {
+        "UUID": "461227b0-ddd8-458a-a59b-bea435965715",
+        "#\u00a0": "9\u00a0",
+        "SCF Domain": "Configuration Management",
+        "SCF Identifier": "CFG",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Enforce secure configurations for systems, applications and services according to vendor-recommended and industry-recognized secure practices."
+        ],
+        "Principle Intent": "Organizations establish and maintain the integrity of systems. Without properly documented and implemented configuration management controls, security features can be inadvertently or deliberately omitted or rendered inoperable, allowing processing irregularities to occur or the execution of malicious code."
+    },
+    {
+        "UUID": "fed13419-0107-4c96-a3df-f0cc3ae8adc9",
+        "#\u00a0": "10\u00a0",
+        "SCF Domain": "Continuous Monitoring",
+        "SCF Identifier": "MON",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Maintain situational awareness of security-related events through the centralized collection and analysis of event logs from systems, applications and services. "
+        ],
+        "Principle Intent": "Organizations establish and maintain ongoing situational awareness across the enterprise through the centralized collection and review of security-related event logs. Without comprehensive visibility into infrastructure, operating system, database, application and other logs, the organization will have \u201cblind spots\u201d in its situational awareness that could lead to system compromise, data exfiltration, or unavailability of needed computing resources."
+    },
+    {
+        "UUID": "deb40cd8-4d19-415a-9c02-b9dcda63c836",
+        "#\u00a0": "11\u00a0",
+        "SCF Domain": "Cryptographic Protections",
+        "SCF Identifier": "CRY",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Utilize appropriate cryptographic solutions and industry-recognized key management practices to protect the confidentiality and integrity of sensitive/regulated data both at rest and in transit."
+        ],
+        "Principle Intent": "Organizations ensure the confidentiality and integrity of its data through implementing appropriate cryptographic technologies to protect systems, applications, services and data."
+    },
+    {
+        "UUID": "aad7ef84-44e4-471d-b38e-2d198003c6a9",
+        "#\u00a0": "12\u00a0",
+        "SCF Domain": "Data Classification & Handling",
+        "SCF Identifier": "DCH",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Enforce a standardized data classification methodology to objectively determine the sensitivity and criticality of all data and technology assets so that proper handling and disposal requirements can ",
+            "be followed."
+        ],
+        "Principle Intent": "Organizations ensure that technology assets, both electronic and physical, are properly classified and measures implemented to protect the organization\u2019s data from unauthorized disclosure, or modification, regardless if it is being transmitted or stored. Applicable statutory, regulatory and contractual compliance requirements dictate the minimum safeguards that must be in place to protect the confidentiality, integrity and availability of data."
+    },
+    {
+        "UUID": "46d5d42f-1633-4d6e-a444-690d1eb5a4b8",
+        "#\u00a0": "13\u00a0",
+        "SCF Domain": "Embedded Technology",
+        "SCF Identifier": "EMB",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Provide additional scrutiny to reduce the risks associated with embedded technology, based on the potential damages posed from malicious use of the technology."
+        ],
+        "Principle Intent": "Organizations specify the development, proactive management and ongoing review of security embedded technologies, including hardening of the \u201cstack\u201d from the hardware, firmware and software to transmission and service protocols used for Internet of Things (IoT) and Operational Technology (OT) devices."
+    },
+    {
+        "UUID": "3f9be734-8f8a-4922-8088-13eb7dcb26ba",
+        "#\u00a0": "14\u00a0",
+        "SCF Domain": "Endpoint Security",
+        "SCF Identifier": "END",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Harden endpoint devices to protect against reasonable threats to those devices and the data those devices store, transmit and process. "
+        ],
+        "Principle Intent": "Organizations ensure that endpoint devices are appropriately protected from security threats to the device and its data. Applicable statutory, regulatory and contractual compliance requirements dictate the minimum safeguards that must be in place to protect the confidentiality, integrity, availability and safety considerations."
+    },
+    {
+        "UUID": "065e8e49-7be1-4607-a8ee-4e4eb369afa6",
+        "#\u00a0": "15\u00a0",
+        "SCF Domain": "Human Resources Security",
+        "SCF Identifier": "HRS",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Execute sound hiring practices and ongoing personnel management to cultivate a cybersecurity and privacy-minded workforce."
+        ],
+        "Principle Intent": "Organizations create a cybersecurity and privacy-minded workforce and an environment that is conducive to innovation, considering issues such as culture, reward and collaboration."
+    },
+    {
+        "UUID": "99d0435a-9c05-4cf8-b471-2d1df96a76e7",
+        "#\u00a0": "16\u00a0",
+        "SCF Domain": "Identification & Authentication",
+        "SCF Identifier": "IAC",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Enforce the concept of \u201cleast privilege\u201d consistently across all systems, applications and services for individual, group and service accounts through a documented and standardized Identity and Access Management (IAM) capability."
+        ],
+        "Principle Intent": "Organizations implement the concept of \u201cleast privilege\u201d through limiting access to the organization\u2019s systems and data to authorized users only."
+    },
+    {
+        "UUID": "1754f64a-8f2d-490f-a4c5-1632dbd2d05e",
+        "#\u00a0": 17,
+        "SCF Domain": "Incident Response",
+        "SCF Identifier": "IRO",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Maintain a viable incident response capability that trains personnel on how to recognize and report suspicious activities so that trained incident responders can take the appropriate steps to handle incidents, in accordance with a documented Incident Response Plan (IRP). "
+        ],
+        "Principle Intent": "Organizations establish and maintain a viable and tested capability to respond to cybersecurity or privacy-related incidents in a timely manner, where organizational personnel understand how to detect and report potential incidents."
+    },
+    {
+        "UUID": "4c4c2f6a-8bce-4a60-8b52-2a1630f6105f",
+        "#\u00a0": 18,
+        "SCF Domain": "Information Assurance",
+        "SCF Identifier": "IAO",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Execute an impartial assessment process to validate the existence and functionality of appropriate cybersecurity and privacy controls, prior to a system, application or service being used in a production environment."
+        ],
+        "Principle Intent": "Organizations ensure the adequately of cybersecurity and privacy controls in development, testing and production environments. "
+    },
+    {
+        "UUID": "79311cb0-c829-4132-ba52-2a33b8bc7e1d",
+        "#\u00a0": 19,
+        "SCF Domain": "Maintenance",
+        "SCF Identifier": "MNT",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Proactively maintain technology assets, according to current vendor recommendations for configurations and updates, including those supported or hosted by third-parties. "
+        ],
+        "Principle Intent": "Organizations ensure that technology assets are properly maintained to ensure continued performance and effectiveness. Maintenance processes apply additional scrutiny to the security of end-of-life or unsupported assets."
+    },
+    {
+        "UUID": "9f32ee5c-09db-4db0-9267-db23137d2182",
+        "#\u00a0": 20,
+        "SCF Domain": "Mobile Device Management",
+        "SCF Identifier": "MDM",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Implement measures to restrict mobile device connectivity with critical infrastructure and sensitive/regulated data that limit the attack surface and potential data exposure from mobile device usage."
+        ],
+        "Principle Intent": "Organizations govern risks associated with mobile devices, regardless of ownership (organization-owned, employee-owned or  third-party owned). Wherever possible, technologies are employed to centrally manage mobile device access and data storage practices."
+    },
+    {
+        "UUID": "627a8621-8b90-4602-acf5-1339b2b183f0",
+        "#\u00a0": 21,
+        "SCF Domain": "Network Security",
+        "SCF Identifier": "NET",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Architect and implement a secure and resilient defense-in-depth methodology that enforces the concept of \u201cleast functionality\u201d through restricting network access to systems, applications and services. "
+        ],
+        "Principle Intent": "Organizations ensure sufficient cybersecurity and privacy controls are architected to protect the confidentiality, integrity, availability and safety of the organization\u2019s network infrastructure, as well as to provide situational awareness of activity on the organization\u2019s networks."
+    },
+    {
+        "UUID": "73e5e4dd-c197-49ba-92c2-b099ddcc53f2",
+        "#\u00a0": 22,
+        "SCF Domain": "Physical & Environmental Security",
+        "SCF Identifier": "PES",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Protect physical environments through layers of physical security and environmental controls that work together to protect both physical and digital assets from theft and damage. "
+        ],
+        "Principle Intent": "Organizations minimize physical access to the organization\u2019s systems and data by addressing applicable physical security controls and ensuring that appropriate environmental controls are in place and continuously monitored to ensure equipment does not fail due to environmental threats."
+    },
+    {
+        "UUID": "64fb8ede-1454-4f7c-bac5-6fab02d8d423",
+        "#\u00a0": 23,
+        "SCF Domain": "Privacy",
+        "SCF Identifier": "PRI\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Align privacy practices with industry-recognized privacy principles to implement appropriate administrative, technical and physical controls to protect regulated personal data throughout the lifecycle of systems, applications and services."
+        ],
+        "Principle Intent": "Organizations align privacy engineering decisions with the organization\u2019s overall privacy strategy and industry-recognized leading practices to secure Personal Data (PD) that implements the concept of privacy by design and by default."
+    },
+    {
+        "UUID": "18414c30-fb30-44b9-9b72-5d07b492f13a",
+        "#\u00a0": 24,
+        "SCF Domain": "Project & Resource Management",
+        "SCF Identifier": "PRM\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Operationalize a viable strategy to achieve cybersecurity & privacy objectives that establishes cybersecurity as a key stakeholder within project management practices to ensure the delivery of resilient and secure solutions."
+        ],
+        "Principle Intent": "Organizations ensure that security-related projects have both resource and project/program management support to ensure successful project execution."
+    },
+    {
+        "UUID": "23357052-9ddf-435f-88fd-2bb3523e9dee",
+        "#\u00a0": 25,
+        "SCF Domain": "Risk Management",
+        "SCF Identifier": "RSK\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Proactively identify, assess, prioritize and remediate risk through alignment with industry-recognized risk management principles to ensure risk decisions adhere to the organization's risk threshold."
+        ],
+        "Principle Intent": "Organizations ensure that the business unit(s) that own the assets and / or processes involved are made aware of and understand all applicable cybersecurity and privacy-related risks. The cybersecurity and privacy teams advise and educate on risk management matters, while it is the business units and other key stakeholders that ultimately own the risk."
+    },
+    {
+        "UUID": "4c479294-6fa4-4394-b7fb-bb9f29d19b0b",
+        "#\u00a0": 26,
+        "SCF Domain": "Secure Engineering & Architecture",
+        "SCF Identifier": "SEA\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Utilize industry-recognized secure engineering and architecture principles to deliver secure and resilient systems, applications and services."
+        ],
+        "Principle Intent": "Organizations align cybersecurity engineering and architecture decisions with the organization\u2019s overall technology architectural strategy and industry-recognized leading practices to secure networked environments."
+    },
+    {
+        "UUID": "ccc6192f-a7bb-4dda-9be0-05578408a84b",
+        "#\u00a0": 27,
+        "SCF Domain": "Security Operations",
+        "SCF Identifier": "OPS\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Execute the delivery of cybersecurity and privacy operations to provide quality services and secure systems, applications and services that meet the organization's business needs."
+        ],
+        "Principle Intent": "Organizations ensure appropriate resources and a management structure exists to enable the service delivery of cybersecurity, physical security and privacy operations."
+    },
+    {
+        "UUID": "9a865b57-de47-4d01-a0bc-dbed614cad49",
+        "#\u00a0": 28,
+        "SCF Domain": "Security Awareness & Training",
+        "SCF Identifier": "SAT\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Foster a cybersecurity and privacy-minded workforce through ongoing user education about evolving threats, compliance obligations and secure workplace practices."
+        ],
+        "Principle Intent": "Organizations develop a cybersecurity and privacy-minded workforce through continuous education activities and practical exercises."
+    },
+    {
+        "UUID": "03c8537d-6c04-4c23-bdc0-0f286bfa06d8",
+        "#\u00a0": 29,
+        "SCF Domain": "Technology Development & Acquisition",
+        "SCF Identifier": "TDA\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Develop and test systems, applications or services according to a Secure Software Development Framework (SSDF) to reduce the potential impact of undetected or unaddressed vulnerabilities and design weaknesses."
+        ],
+        "Principle Intent": "Organizations ensure that cybersecurity and privacy principles are implemented into any products/solutions, either developed internally or acquired, to make sure that the concepts of \u201cleast privilege\u201d and \u201cleast functionality\u201d are incorporated."
+    },
+    {
+        "UUID": "25c6fe93-37af-4480-b313-b84062cd347a",
+        "#\u00a0": 30,
+        "SCF Domain": "Third-Party Management",
+        "SCF Identifier": "TPM\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Execute Supply Chain Risk Management (SCRM) practices so that only trustworthy third-parties are used for products and/or service delivery."
+        ],
+        "Principle Intent": "Organizations ensure that cybersecurity and privacy risks associated with third-parties are minimized and enable measures to sustain operations should a third-party become compromised, untrustworthy or defunct."
+    },
+    {
+        "UUID": "beae3f43-f2d4-4d9c-ae4e-96b4de111b8d",
+        "#\u00a0": 31,
+        "SCF Domain": "Threat Management ",
+        "SCF Identifier": "THR",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Proactively identify and assess technology-related threats, to both assets and business processes, to determine the applicable risk and necessary corrective action."
+        ],
+        "Principle Intent": "Organizations establish a capability to proactively identify and manage technology-related threats to the cybersecurity and privacy of the organization\u2019s systems, data and business processes."
+    },
+    {
+        "UUID": "18494f1a-148f-42f1-a7e0-f3e619314bb1",
+        "#\u00a0": 32,
+        "SCF Domain": "Vulnerability & Patch Management",
+        "SCF Identifier": "VPM\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Leverage industry-recognized Attack Surface Management (ASM) practices to strengthen the security and resilience systems, applications and services against evolving and sophisticated attack vectors."
+        ],
+        "Principle Intent": "Organizations proactively manage the risks associated with technical vulnerability management that includes ensuring good patch and change management practices are utilized."
+    },
+    {
+        "UUID": "40a27b2f-9053-4087-866f-26a72323d560",
+        "#\u00a0": 33,
+        "SCF Domain": "Web Security",
+        "SCF Identifier": "WEB\u00a0",
+        "Security & Privacy by Design (S|P) Principles": [
+            "Ensure the security and resilience of Internet-facing technologies through secure configuration management practices and monitoring for anomalous activity."
+        ],
+        "Principle Intent": "Organizations address the risks associated with Internet-accessible technologies by hardening devices, monitoring system file integrity, enabling auditing, and monitoring for malicious activities."
+    }
+]
