@@ -2,7 +2,7 @@
     {
         "UUID": "857e0d76-e6b2-4893-b901-e8bf6518a8c8",
         "#\u00a0": 1,
-        "SCF Domain": "Security & Privacy Governance",
+        "SCF Domain": "Cybersecurity & Privacy Governance",
         "SCF Identifier": "GOV",
         "Security & Privacy by Design (S|P) Principles": [
             "Execute a documented, risk-based program that supports business objectives while encompassing appropriate cybersecurity and privacy principles that address applicable statutory, regulatory and contractual obligations."
@@ -12,7 +12,7 @@
     {
         "UUID": "3e3253ea-dbf6-4bba-b77f-b6f886d9f5be",
         "#\u00a0": 2,
-        "SCF Domain": "Artificial and Autonomous Technology",
+        "SCF Domain": "Artificial & Autonomous Technologies",
         "SCF Identifier": "AAT",
         "Security & Privacy by Design (S|P) Principles": [
             "Ensure trustworthy and resilient Artificial Intelligence (AI) and autonomous technologies to achieve a beneficial impact by informing, advising or simplifying tasks, while minimizing emergent properties or unintended consequences."

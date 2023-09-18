@@ -5,7 +5,22 @@
         "Mapping Column Header": [
             "AICPA",
             "TSC 2017",
-            "(SOC 2)"
+            "(Controls)"
+        ],
+        "Source": "AICPA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Service Organization Control - Trust Services Criteria (TSC) - SOC2"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html"
+    },
+        {
+        "UUID": "58ceb6ba-55c2-11ee-8c99-0242ac120002",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "AICPA",
+            "TSC 2017",
+            "(Points of Focus)"
         ],
         "Source": "AICPA",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -478,7 +493,7 @@
         "Mapping Column Header": [
             "NIST",
             "800-53 rev4",
-            "[moderate]"
+            "(moderate)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -530,7 +545,7 @@
             "NIST",
             "800-53",
             "rev5",
-            "[privacy]"
+            "(privacy)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -549,7 +564,7 @@
             "NIST",
             "800-53",
             "rev5",
-            "[low]"
+            "(low)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -568,7 +583,7 @@
             "NIST",
             "800-53",
             "rev5",
-            "[moerate]"
+            "(moderate)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -587,7 +602,7 @@
             "NIST",
             "800-53",
             "rev5",
-            "[high]"
+            "(high)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -606,7 +621,7 @@
             "NIST",
             "800-53",
             "rev5",
-            "[NOC]"
+            "(NOC)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -624,7 +639,7 @@
         "Mapping Column Header": [
             "NIST",
             "800-63B",
-            "[partial mapping]"
+            "(partial mapping)"
         ],
         "Source": "NIST",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -910,10 +925,10 @@
         "UUID": "2ef278bd-2810-4a2b-97bf-002d17ffe3ce",
         "Geography": "Universal",
         "Mapping Column Header": [
-            "PCI DSS",
+            "PCIDSS",
             "v3.2"
         ],
-        "Source": "PCI SSC",
+        "Source": "PCISSC",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
             "Payment Card Industry Data Security Standard (PCI DSS)"
         ],
@@ -1468,6 +1483,7 @@
         "UUID": "f8643bf5-5ae1-4463-886d-32e6792f111b",
         "Geography": "US",
         "Mapping Column Header": [
+            "US",
             "ITAR",
             "Part 120",
             "[limited]"
@@ -1573,6 +1589,7 @@
         "UUID": "03dab0db-0af6-4bc9-83e2-5d8a63f7b058",
         "Geography": "US",
         "Mapping Column Header": [
+            "US",
             "StateRAMP",
             "Low",
             "Category 1"
@@ -1589,6 +1606,7 @@
         "UUID": "b06bd3fb-e9bc-4724-b7a7-3e54b2a8a51a",
         "Geography": "US",
         "Mapping Column Header": [
+            "US",
             "StateRAMP",
             "Low+",
             "Category 2"
@@ -1605,6 +1623,7 @@
         "UUID": "e070b2e8-f035-462c-9b2c-924fd0415f90",
         "Geography": "US",
         "Mapping Column Header": [
+            "US",
             "StateRAMP",
             "Moderate",
             "Category 3"
@@ -1736,7 +1755,7 @@
         "UUID": "123a4d59-9edb-4c05-86bc-031b0e61af46",
         "Geography": "US",
         "Mapping Column Header": [
-            "US - MA",
+            "US-MA",
             "201 CMR 17.00"
         ],
         "Source": "State",
@@ -1866,7 +1885,23 @@
         "Geography": "US",
         "Mapping Column Header": [
             "US-TX",
-            "TX-RAMP"
+            "TX-RAMP",
+            "Level 1"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - Texas Risk & Authorization Management Program (TX-RAMP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://dir.texas.gov/texas-risk-and-authorization-management-program-tx-ramp"
+    },
+    {
+        "UUID": "cc6e3a33-049f-4e45-97a8-bf066b8bffe4",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-TX",
+            "TX-RAMP",
+            "Level 2"
         ],
         "Source": "State",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2088,7 +2123,7 @@
         "Mapping Column Header": [
             "EMEA",
             "Germany",
-            "C5:2020"
+            "C5-2020"
         ],
         "Source": "Germany",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2312,7 +2347,7 @@
         "Mapping Column Header": [
             "EMEA",
             "Saudi Arabia",
-            "ECC-1 2018"
+            "ECC-12018"
         ],
         "Source": "Saudi Arabia",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2568,7 +2603,7 @@
         "Mapping Column Header": [
             "APAC",
             "Australia",
-            "Prudential Standard CPS 234"
+            "Prudential Standard CPS234"
         ],
         "Source": "Australia",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2582,7 +2617,7 @@
         "Geography": "APAC",
         "Mapping Column Header": [
             "APAC",
-            "Australia",
+            "Australian",
             "Privacy Principles"
         ],
         "Source": "Australia",
@@ -2851,7 +2886,7 @@
         "Mapping Column Header": [
             "Americas",
             "Argentina",
-            "Reg 132/2018"
+            "Reg 132-2018"
         ],
         "Source": "Argentina",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2880,7 +2915,7 @@
         "Mapping Column Header": [
             "Americas",
             "Bermuda",
-            "BMA CCC"
+            "BMACCC"
         ],
         "Source": "Bermuda",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
@@ -2894,7 +2929,8 @@
         "Geography": "Americas",
         "Mapping Column Header": [
             "Americas",
-            "Brazil"
+            "Brazil",
+            "LGPD"
         ],
         "Source": "Brazil",
         "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
